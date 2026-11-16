@@ -1,0 +1,6 @@
+region_id,region_name,territory_tier
+REG-01,APAC Export,Tier 2 Expansion
+REG-02,East India,Tier 2 Expansion
+REG-03,North India,Tier 1 Core
+REG-04,South India,Tier 2 Expansion
+REG-05,West India,Tier 1 Core

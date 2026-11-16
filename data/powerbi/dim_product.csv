@@ -1,0 +1,9 @@
+product_id,product_family,category,unit_price,warranty_months,target_ppm
+PRD-01,Online UPS 10kVA,Uninterruptible Power Supply,4200.0,24,3600
+PRD-02,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,380.0,24,3200
+PRD-03,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,18500.0,36,2400
+PRD-04,LV Switchgear Panel,Switchgear & Distribution,12500.0,36,2600
+PRD-05,Molded Case Circuit Breaker (MCCB),Circuit Protection,650.0,24,3400
+PRD-06,Air Circuit Breaker (ACB),Circuit Protection,4100.0,36,4200
+PRD-07,Surge Protection Device (SPD),Protection Devices,190.0,12,2100
+PRD-08,Power Distribution Unit (PDU),Switchgear & Distribution,1600.0,24,2300

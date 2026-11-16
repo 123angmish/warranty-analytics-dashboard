@@ -1,0 +1,9 @@
+product_family,category,unit_price,warranty_months,target_ppm,typical_failure_modes
+Online UPS 10kVA,Uninterruptible Power Supply,4200.0,24,3600,"Capacitor Aging, Overheating / Fan Failure, Firmware Fault, PCB Solder Defect"
+Line-Interactive UPS 1kVA,Uninterruptible Power Supply,380.0,24,3200,"Battery Degradation, Overheating / Fan Failure, PCB Solder Defect, Relay / Contactor Failure"
+Modular Industrial UPS 50kVA,Uninterruptible Power Supply,18500.0,36,2400,"Capacitor Aging, Overheating / Fan Failure, Firmware Fault, Loose Connection / Overheating"
+LV Switchgear Panel,Switchgear & Distribution,12500.0,36,2600,"Insulation Breakdown, Loose Connection / Overheating, Corrosion, Contact Wear"
+Molded Case Circuit Breaker (MCCB),Circuit Protection,650.0,24,3400,"Contact Wear, Trip-Unit Malfunction, Loose Connection / Overheating"
+Air Circuit Breaker (ACB),Circuit Protection,4100.0,36,4200,"Contact Wear, Trip-Unit Malfunction, Insulation Breakdown, Corrosion"
+Surge Protection Device (SPD),Protection Devices,190.0,12,2100,"MOV Varistor Degradation, PCB Solder Defect"
+Power Distribution Unit (PDU),Switchgear & Distribution,1600.0,24,2300,"Loose Connection / Overheating, Firmware Fault, Relay / Contactor Failure"

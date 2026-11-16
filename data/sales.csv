@@ -1,0 +1,1441 @@
+shipment_id,product_family,category,region,ship_date,ship_month,quantity,batch_id,unit_price
+SHP-100001,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-01-21,2023-01,202,LOT-ONL-2023-M01-NO,4200.0
+SHP-100002,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-01-04,2023-01,214,LOT-ONL-2023-M01-SO,4200.0
+SHP-100003,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-01-01,2023-01,234,LOT-ONL-2023-M01-WE,4200.0
+SHP-100004,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-01-24,2023-01,146,LOT-ONL-2023-M01-EA,4200.0
+SHP-100005,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-01-09,2023-01,118,LOT-ONL-2023-M01-AP,4200.0
+SHP-100006,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-01-08,2023-01,537,LOT-LIN-2023-M01-NO,380.0
+SHP-100007,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-01-08,2023-01,504,LOT-LIN-2023-M01-SO,380.0
+SHP-100008,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-01-05,2023-01,663,LOT-LIN-2023-M01-WE,380.0
+SHP-100009,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-01-24,2023-01,405,LOT-LIN-2023-M01-EA,380.0
+SHP-100010,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-01-04,2023-01,361,LOT-LIN-2023-M01-AP,380.0
+SHP-100011,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-01-22,2023-01,36,LOT-MOD-2023-M01-NO,18500.0
+SHP-100012,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-01-24,2023-01,40,LOT-MOD-2023-M01-SO,18500.0
+SHP-100013,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-01-18,2023-01,45,LOT-MOD-2023-M01-WE,18500.0
+SHP-100014,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-01-03,2023-01,26,LOT-MOD-2023-M01-EA,18500.0
+SHP-100015,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-01-19,2023-01,22,LOT-MOD-2023-M01-AP,18500.0
+SHP-100016,LV Switchgear Panel,Switchgear & Distribution,North India,2023-01-14,2023-01,55,LOT-LV -2023-M01-NO,12500.0
+SHP-100017,LV Switchgear Panel,Switchgear & Distribution,South India,2023-01-02,2023-01,54,LOT-LV -2023-M01-SO,12500.0
+SHP-100018,LV Switchgear Panel,Switchgear & Distribution,West India,2023-01-01,2023-01,64,LOT-LV -2023-M01-WE,12500.0
+SHP-100019,LV Switchgear Panel,Switchgear & Distribution,East India,2023-01-03,2023-01,40,LOT-LV -2023-M01-EA,12500.0
+SHP-100020,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-01-07,2023-01,34,LOT-LV -2023-M01-AP,12500.0
+SHP-100021,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-01-08,2023-01,463,LOT-MOL-2023-M01-NO,650.0
+SHP-100022,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-01-17,2023-01,406,LOT-MOL-2023-M01-SO,650.0
+SHP-100023,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-01-20,2023-01,475,LOT-MOL-2023-M01-WE,650.0
+SHP-100024,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-01-01,2023-01,308,LOT-MOL-2023-M01-EA,650.0
+SHP-100025,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-01-18,2023-01,274,LOT-MOL-2023-M01-AP,650.0
+SHP-100026,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-01-07,2023-01,114,LOT-AIR-2023-M01-NO,4100.0
+SHP-100027,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-01-23,2023-01,98,LOT-AIR-2023-M01-SO,4100.0
+SHP-100028,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-01-21,2023-01,118,LOT-AIR-2023-M01-WE,4100.0
+SHP-100029,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-01-23,2023-01,76,LOT-AIR-2023-M01-EA,4100.0
+SHP-100030,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-01-18,2023-01,60,LOT-AIR-2023-M01-AP,4100.0
+SHP-100031,Surge Protection Device (SPD),Protection Devices,North India,2023-01-14,2023-01,482,LOT-SUR-2023-M01-NO,190.0
+SHP-100032,Surge Protection Device (SPD),Protection Devices,South India,2023-01-08,2023-01,426,LOT-SUR-2023-M01-SO,190.0
+SHP-100033,Surge Protection Device (SPD),Protection Devices,West India,2023-01-15,2023-01,475,LOT-SUR-2023-M01-WE,190.0
+SHP-100034,Surge Protection Device (SPD),Protection Devices,East India,2023-01-19,2023-01,356,LOT-SUR-2023-M01-EA,190.0
+SHP-100035,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-01-09,2023-01,312,LOT-SUR-2023-M01-AP,190.0
+SHP-100036,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-01-26,2023-01,187,LOT-POW-2023-M01-NO,1600.0
+SHP-100037,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-01-28,2023-01,164,LOT-POW-2023-M01-SO,1600.0
+SHP-100038,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-01-01,2023-01,179,LOT-POW-2023-M01-WE,1600.0
+SHP-100039,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-01-25,2023-01,127,LOT-POW-2023-M01-EA,1600.0
+SHP-100040,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-01-26,2023-01,107,LOT-POW-2023-M01-AP,1600.0
+SHP-100041,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-01-06,2023-01,194,LOT-ONL-2023-M01-NO,4200.0
+SHP-100042,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-01-23,2023-01,199,LOT-ONL-2023-M01-SO,4200.0
+SHP-100043,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-01-14,2023-01,207,LOT-ONL-2023-M01-WE,4200.0
+SHP-100044,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-01-11,2023-01,155,LOT-ONL-2023-M01-EA,4200.0
+SHP-100045,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-01-09,2023-01,121,LOT-ONL-2023-M01-AP,4200.0
+SHP-100046,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-01-05,2023-01,592,LOT-LIN-2023-M01-NO,380.0
+SHP-100047,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-01-07,2023-01,532,LOT-LIN-2023-M01-SO,380.0
+SHP-100048,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-01-25,2023-01,628,LOT-LIN-2023-M01-WE,380.0
+SHP-100049,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-01-11,2023-01,404,LOT-LIN-2023-M01-EA,380.0
+SHP-100050,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-01-04,2023-01,330,LOT-LIN-2023-M01-AP,380.0
+SHP-100051,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-01-03,2023-01,43,LOT-MOD-2023-M01-NO,18500.0
+SHP-100052,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-01-13,2023-01,39,LOT-MOD-2023-M01-SO,18500.0
+SHP-100053,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-01-04,2023-01,46,LOT-MOD-2023-M01-WE,18500.0
+SHP-100054,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-01-12,2023-01,29,LOT-MOD-2023-M01-EA,18500.0
+SHP-100055,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-01-28,2023-01,24,LOT-MOD-2023-M01-AP,18500.0
+SHP-100056,LV Switchgear Panel,Switchgear & Distribution,North India,2023-01-12,2023-01,64,LOT-LV -2023-M01-NO,12500.0
+SHP-100057,LV Switchgear Panel,Switchgear & Distribution,South India,2023-01-20,2023-01,52,LOT-LV -2023-M01-SO,12500.0
+SHP-100058,LV Switchgear Panel,Switchgear & Distribution,West India,2023-01-09,2023-01,61,LOT-LV -2023-M01-WE,12500.0
+SHP-100059,LV Switchgear Panel,Switchgear & Distribution,East India,2023-01-26,2023-01,38,LOT-LV -2023-M01-EA,12500.0
+SHP-100060,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-01-02,2023-01,35,LOT-LV -2023-M01-AP,12500.0
+SHP-100061,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-01-24,2023-01,447,LOT-MOL-2023-M01-NO,650.0
+SHP-100062,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-01-15,2023-01,419,LOT-MOL-2023-M01-SO,650.0
+SHP-100063,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-01-18,2023-01,525,LOT-MOL-2023-M01-WE,650.0
+SHP-100064,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-01-04,2023-01,309,LOT-MOL-2023-M01-EA,650.0
+SHP-100065,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-01-13,2023-01,267,LOT-MOL-2023-M01-AP,650.0
+SHP-100066,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-01-03,2023-01,110,LOT-AIR-2023-M01-NO,4100.0
+SHP-100067,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-01-18,2023-01,97,LOT-AIR-2023-M01-SO,4100.0
+SHP-100068,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-01-10,2023-01,125,LOT-AIR-2023-M01-WE,4100.0
+SHP-100069,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-01-27,2023-01,70,LOT-AIR-2023-M01-EA,4100.0
+SHP-100070,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-01-21,2023-01,72,LOT-AIR-2023-M01-AP,4100.0
+SHP-100071,Surge Protection Device (SPD),Protection Devices,North India,2023-01-20,2023-01,499,LOT-SUR-2023-M01-NO,190.0
+SHP-100072,Surge Protection Device (SPD),Protection Devices,South India,2023-01-28,2023-01,431,LOT-SUR-2023-M01-SO,190.0
+SHP-100073,Surge Protection Device (SPD),Protection Devices,West India,2023-01-12,2023-01,472,LOT-SUR-2023-M01-WE,190.0
+SHP-100074,Surge Protection Device (SPD),Protection Devices,East India,2023-01-19,2023-01,350,LOT-SUR-2023-M01-EA,190.0
+SHP-100075,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-01-07,2023-01,300,LOT-SUR-2023-M01-AP,190.0
+SHP-100076,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-01-23,2023-01,186,LOT-POW-2023-M01-NO,1600.0
+SHP-100077,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-01-03,2023-01,179,LOT-POW-2023-M01-SO,1600.0
+SHP-100078,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-01-02,2023-01,179,LOT-POW-2023-M01-WE,1600.0
+SHP-100079,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-01-22,2023-01,121,LOT-POW-2023-M01-EA,1600.0
+SHP-100080,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-01-08,2023-01,101,LOT-POW-2023-M01-AP,1600.0
+SHP-100081,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-03-25,2023-03,262,LOT-ONL-2023-M03-NO,4200.0
+SHP-100082,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-03-10,2023-03,241,LOT-ONL-2023-M03-SO,4200.0
+SHP-100083,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-03-03,2023-03,260,LOT-ONL-2023-M03-WE,4200.0
+SHP-100084,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-03-28,2023-03,158,LOT-ONL-2023-M03-EA,4200.0
+SHP-100085,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-03-08,2023-03,145,LOT-ONL-2023-M03-AP,4200.0
+SHP-100086,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-03-28,2023-03,660,LOT-LIN-2023-M03-NO,380.0
+SHP-100087,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-03-04,2023-03,678,LOT-LIN-2023-M03-SO,380.0
+SHP-100088,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-03-13,2023-03,759,LOT-LIN-2023-M03-WE,380.0
+SHP-100089,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-03-09,2023-03,507,LOT-LIN-2023-M03-EA,380.0
+SHP-100090,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-03-15,2023-03,413,LOT-LIN-2023-M03-AP,380.0
+SHP-100091,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-03-21,2023-03,43,LOT-MOD-2023-M03-NO,18500.0
+SHP-100092,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-03-27,2023-03,46,LOT-MOD-2023-M03-SO,18500.0
+SHP-100093,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-03-12,2023-03,53,LOT-MOD-2023-M03-WE,18500.0
+SHP-100094,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-03-06,2023-03,33,LOT-MOD-2023-M03-EA,18500.0
+SHP-100095,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-03-12,2023-03,30,LOT-MOD-2023-M03-AP,18500.0
+SHP-100096,LV Switchgear Panel,Switchgear & Distribution,North India,2023-03-12,2023-03,70,LOT-LV -2023-M03-NO,12500.0
+SHP-100097,LV Switchgear Panel,Switchgear & Distribution,South India,2023-03-07,2023-03,67,LOT-LV -2023-M03-SO,12500.0
+SHP-100098,LV Switchgear Panel,Switchgear & Distribution,West India,2023-03-22,2023-03,75,LOT-LV -2023-M03-WE,12500.0
+SHP-100099,LV Switchgear Panel,Switchgear & Distribution,East India,2023-03-09,2023-03,44,LOT-LV -2023-M03-EA,12500.0
+SHP-100100,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-03-23,2023-03,39,LOT-LV -2023-M03-AP,12500.0
+SHP-100101,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-03-22,2023-03,495,LOT-MOL-2023-M03-NO,650.0
+SHP-100102,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-03-21,2023-03,529,LOT-MOL-2023-M03-SO,650.0
+SHP-100103,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-03-03,2023-03,568,LOT-MOL-2023-M03-WE,650.0
+SHP-100104,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-03-20,2023-03,376,LOT-MOL-2023-M03-EA,650.0
+SHP-100105,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-03-21,2023-03,353,LOT-MOL-2023-M03-AP,650.0
+SHP-100106,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-03-06,2023-03,123,LOT-AIR-2023-M03-NO,4100.0
+SHP-100107,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-03-18,2023-03,121,LOT-AIR-2023-M03-SO,4100.0
+SHP-100108,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-03-24,2023-03,146,LOT-AIR-2023-M03-WE,4100.0
+SHP-100109,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-03-08,2023-03,85,LOT-AIR-2023-M03-EA,4100.0
+SHP-100110,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-03-06,2023-03,72,LOT-AIR-2023-M03-AP,4100.0
+SHP-100111,Surge Protection Device (SPD),Protection Devices,North India,2023-03-15,2023-03,543,LOT-SUR-2023-M03-NO,190.0
+SHP-100112,Surge Protection Device (SPD),Protection Devices,South India,2023-03-13,2023-03,507,LOT-SUR-2023-M03-SO,190.0
+SHP-100113,Surge Protection Device (SPD),Protection Devices,West India,2023-03-09,2023-03,660,LOT-SUR-2023-M03-WE,190.0
+SHP-100114,Surge Protection Device (SPD),Protection Devices,East India,2023-03-21,2023-03,414,LOT-SUR-2023-M03-EA,190.0
+SHP-100115,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-03-23,2023-03,351,LOT-SUR-2023-M03-AP,190.0
+SHP-100116,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-03-18,2023-03,225,LOT-POW-2023-M03-NO,1600.0
+SHP-100117,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-03-08,2023-03,213,LOT-POW-2023-M03-SO,1600.0
+SHP-100118,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-03-22,2023-03,217,LOT-POW-2023-M03-WE,1600.0
+SHP-100119,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-03-11,2023-03,157,LOT-POW-2023-M03-EA,1600.0
+SHP-100120,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-03-27,2023-03,129,LOT-POW-2023-M03-AP,1600.0
+SHP-100121,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-04-25,2023-04,261,LOT-ONL-2023-M04-NO,4200.0
+SHP-100122,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-04-25,2023-04,254,LOT-ONL-2023-M04-SO,4200.0
+SHP-100123,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-04-02,2023-04,261,LOT-ONL-2023-M04-WE,4200.0
+SHP-100124,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-04-08,2023-04,160,LOT-ONL-2023-M04-EA,4200.0
+SHP-100125,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-04-27,2023-04,143,LOT-ONL-2023-M04-AP,4200.0
+SHP-100126,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-04-02,2023-04,677,LOT-LIN-2023-M04-NO,380.0
+SHP-100127,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-04-26,2023-04,693,LOT-LIN-2023-M04-SO,380.0
+SHP-100128,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-04-11,2023-04,793,LOT-LIN-2023-M04-WE,380.0
+SHP-100129,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-04-13,2023-04,435,LOT-LIN-2023-M04-EA,380.0
+SHP-100130,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-04-09,2023-04,418,LOT-LIN-2023-M04-AP,380.0
+SHP-100131,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-04-03,2023-04,46,LOT-MOD-2023-M04-NO,18500.0
+SHP-100132,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-04-07,2023-04,43,LOT-MOD-2023-M04-SO,18500.0
+SHP-100133,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-04-19,2023-04,47,LOT-MOD-2023-M04-WE,18500.0
+SHP-100134,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-04-23,2023-04,31,LOT-MOD-2023-M04-EA,18500.0
+SHP-100135,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-04-11,2023-04,31,LOT-MOD-2023-M04-AP,18500.0
+SHP-100136,LV Switchgear Panel,Switchgear & Distribution,North India,2023-04-07,2023-04,68,LOT-LV -2023-M04-NO,12500.0
+SHP-100137,LV Switchgear Panel,Switchgear & Distribution,South India,2023-04-21,2023-04,68,LOT-LV -2023-M04-SO,12500.0
+SHP-100138,LV Switchgear Panel,Switchgear & Distribution,West India,2023-04-16,2023-04,79,LOT-LV -2023-M04-WE,12500.0
+SHP-100139,LV Switchgear Panel,Switchgear & Distribution,East India,2023-04-13,2023-04,48,LOT-LV -2023-M04-EA,12500.0
+SHP-100140,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-04-21,2023-04,46,LOT-LV -2023-M04-AP,12500.0
+SHP-100141,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-04-15,2023-04,588,LOT-MOL-2023-M04-NO,650.0
+SHP-100142,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-04-05,2023-04,497,LOT-MOL-2023-M04-SO,650.0
+SHP-100143,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-04-09,2023-04,591,LOT-MOL-2023-M04-WE,650.0
+SHP-100144,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-04-05,2023-04,365,LOT-MOL-2023-M04-EA,650.0
+SHP-100145,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-04-08,2023-04,318,LOT-MOL-2023-M04-AP,650.0
+SHP-100146,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-04-24,2023-04,119,LOT-AIR-2023-M04-NO,4100.0
+SHP-100147,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-04-18,2023-04,126,LOT-AIR-2023-M04-SO,4100.0
+SHP-100148,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-04-18,2023-04,141,LOT-AIR-2023-M04-WE,4100.0
+SHP-100149,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-04-09,2023-04,83,LOT-AIR-2023-M04-EA,4100.0
+SHP-100150,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-04-24,2023-04,76,LOT-AIR-2023-M04-AP,4100.0
+SHP-100151,Surge Protection Device (SPD),Protection Devices,North India,2023-04-19,2023-04,609,LOT-SUR-2023-M04-NO,190.0
+SHP-100152,Surge Protection Device (SPD),Protection Devices,South India,2023-04-14,2023-04,517,LOT-SUR-2023-M04-SO,190.0
+SHP-100153,Surge Protection Device (SPD),Protection Devices,West India,2023-04-19,2023-04,578,LOT-SUR-2023-M04-WE,190.0
+SHP-100154,Surge Protection Device (SPD),Protection Devices,East India,2023-04-13,2023-04,394,LOT-SUR-2023-M04-EA,190.0
+SHP-100155,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-04-12,2023-04,375,LOT-SUR-2023-M04-AP,190.0
+SHP-100156,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-04-08,2023-04,203,LOT-POW-2023-M04-NO,1600.0
+SHP-100157,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-04-05,2023-04,209,LOT-POW-2023-M04-SO,1600.0
+SHP-100158,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-04-17,2023-04,242,LOT-POW-2023-M04-WE,1600.0
+SHP-100159,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-04-16,2023-04,141,LOT-POW-2023-M04-EA,1600.0
+SHP-100160,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-04-03,2023-04,134,LOT-POW-2023-M04-AP,1600.0
+SHP-100161,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-05-25,2023-05,304,LOT-ONL-2023-M05-NO,4200.0
+SHP-100162,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-05-02,2023-05,305,LOT-ONL-2023-M05-SO,4200.0
+SHP-100163,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-05-28,2023-05,347,LOT-ONL-2023-M05-WE,4200.0
+SHP-100164,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-05-04,2023-05,218,LOT-ONL-2023-M05-EA,4200.0
+SHP-100165,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-05-05,2023-05,176,LOT-ONL-2023-M05-AP,4200.0
+SHP-100166,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-05-21,2023-05,914,LOT-LIN-2023-M05-NO,380.0
+SHP-100167,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-05-06,2023-05,798,LOT-LIN-2023-M05-SO,380.0
+SHP-100168,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-05-26,2023-05,885,LOT-LIN-2023-M05-WE,380.0
+SHP-100169,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-05-22,2023-05,551,LOT-LIN-2023-M05-EA,380.0
+SHP-100170,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-05-14,2023-05,533,LOT-LIN-2023-M05-AP,380.0
+SHP-100171,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-05-20,2023-05,61,LOT-MOD-2023-M05-NO,18500.0
+SHP-100172,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-05-03,2023-05,52,LOT-MOD-2023-M05-SO,18500.0
+SHP-100173,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-05-13,2023-05,64,LOT-MOD-2023-M05-WE,18500.0
+SHP-100174,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-05-13,2023-05,39,LOT-MOD-2023-M05-EA,18500.0
+SHP-100175,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-05-20,2023-05,37,LOT-MOD-2023-M05-AP,18500.0
+SHP-100176,LV Switchgear Panel,Switchgear & Distribution,North India,2023-05-15,2023-05,84,LOT-LV -2023-M05-NO,12500.0
+SHP-100177,LV Switchgear Panel,Switchgear & Distribution,South India,2023-05-17,2023-05,88,LOT-LV -2023-M05-SO,12500.0
+SHP-100178,LV Switchgear Panel,Switchgear & Distribution,West India,2023-05-09,2023-05,95,LOT-LV -2023-M05-WE,12500.0
+SHP-100179,LV Switchgear Panel,Switchgear & Distribution,East India,2023-05-18,2023-05,66,LOT-LV -2023-M05-EA,12500.0
+SHP-100180,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-05-28,2023-05,50,LOT-LV -2023-M05-AP,12500.0
+SHP-100181,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-05-01,2023-05,664,LOT-MOL-2023-M05-NO,650.0
+SHP-100182,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-05-22,2023-05,609,LOT-MOL-2023-M05-SO,650.0
+SHP-100183,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-05-24,2023-05,799,LOT-MOL-2023-M05-WE,650.0
+SHP-100184,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-05-04,2023-05,507,LOT-MOL-2023-M05-EA,650.0
+SHP-100185,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-05-22,2023-05,398,LOT-MOL-2023-M05-AP,650.0
+SHP-100186,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-05-18,2023-05,168,LOT-AIR-2023-M05-NO,4100.0
+SHP-100187,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-05-25,2023-05,165,LOT-AIR-2023-M05-SO,4100.0
+SHP-100188,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-05-09,2023-05,179,LOT-AIR-2023-M05-WE,4100.0
+SHP-100189,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-05-25,2023-05,114,LOT-AIR-2023-M05-EA,4100.0
+SHP-100190,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-05-21,2023-05,95,LOT-AIR-2023-M05-AP,4100.0
+SHP-100191,Surge Protection Device (SPD),Protection Devices,North India,2023-05-11,2023-05,662,LOT-SUR-2023-M05-NO,190.0
+SHP-100192,Surge Protection Device (SPD),Protection Devices,South India,2023-05-04,2023-05,731,LOT-SUR-2023-M05-SO,190.0
+SHP-100193,Surge Protection Device (SPD),Protection Devices,West India,2023-05-10,2023-05,831,LOT-SUR-2023-M05-WE,190.0
+SHP-100194,Surge Protection Device (SPD),Protection Devices,East India,2023-05-14,2023-05,508,LOT-SUR-2023-M05-EA,190.0
+SHP-100195,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-05-06,2023-05,422,LOT-SUR-2023-M05-AP,190.0
+SHP-100196,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-05-15,2023-05,260,LOT-POW-2023-M05-NO,1600.0
+SHP-100197,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-05-01,2023-05,266,LOT-POW-2023-M05-SO,1600.0
+SHP-100198,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-05-24,2023-05,311,LOT-POW-2023-M05-WE,1600.0
+SHP-100199,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-05-24,2023-05,199,LOT-POW-2023-M05-EA,1600.0
+SHP-100200,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-05-09,2023-05,171,LOT-POW-2023-M05-AP,1600.0
+SHP-100201,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-06-17,2023-06,322,LOT-ONL-2023-M06-NO,4200.0
+SHP-100202,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-06-25,2023-06,278,LOT-ONL-2023-M06-SO,4200.0
+SHP-100203,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-06-06,2023-06,320,LOT-ONL-2023-M06-WE,4200.0
+SHP-100204,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-06-17,2023-06,234,LOT-ONL-2023-M06-EA,4200.0
+SHP-100205,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-06-04,2023-06,194,LOT-ONL-2023-M06-AP,4200.0
+SHP-100206,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-06-28,2023-06,791,LOT-LIN-2023-M06-NO,380.0
+SHP-100207,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-06-21,2023-06,771,LOT-LIN-2023-M06-SO,380.0
+SHP-100208,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-06-10,2023-06,970,LOT-LIN-2023-M06-WE,380.0
+SHP-100209,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-06-27,2023-06,550,LOT-LIN-2023-M06-EA,380.0
+SHP-100210,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-06-21,2023-06,496,LOT-LIN-2023-M06-AP,380.0
+SHP-100211,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-06-17,2023-06,60,LOT-MOD-2023-M06-NO,18500.0
+SHP-100212,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-06-20,2023-06,59,LOT-MOD-2023-M06-SO,18500.0
+SHP-100213,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-06-07,2023-06,66,LOT-MOD-2023-M06-WE,18500.0
+SHP-100214,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-06-05,2023-06,39,LOT-MOD-2023-M06-EA,18500.0
+SHP-100215,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-06-12,2023-06,37,LOT-MOD-2023-M06-AP,18500.0
+SHP-100216,LV Switchgear Panel,Switchgear & Distribution,North India,2023-06-25,2023-06,85,LOT-LV -2023-M06-NO,12500.0
+SHP-100217,LV Switchgear Panel,Switchgear & Distribution,South India,2023-06-06,2023-06,83,LOT-LV -2023-M06-SO,12500.0
+SHP-100218,LV Switchgear Panel,Switchgear & Distribution,West India,2023-06-18,2023-06,101,LOT-LV -2023-M06-WE,12500.0
+SHP-100219,LV Switchgear Panel,Switchgear & Distribution,East India,2023-06-25,2023-06,64,LOT-LV -2023-M06-EA,12500.0
+SHP-100220,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-06-17,2023-06,58,LOT-LV -2023-M06-AP,12500.0
+SHP-100221,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-06-01,2023-06,707,LOT-MOL-2023-M06-NO,650.0
+SHP-100222,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-06-20,2023-06,666,LOT-MOL-2023-M06-SO,650.0
+SHP-100223,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-06-11,2023-06,693,LOT-MOL-2023-M06-WE,650.0
+SHP-100224,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-06-16,2023-06,467,LOT-MOL-2023-M06-EA,650.0
+SHP-100225,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-06-01,2023-06,401,LOT-MOL-2023-M06-AP,650.0
+SHP-100226,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-06-04,2023-06,157,LOT-AIR-2023-M06-NO,4100.0
+SHP-100227,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-06-12,2023-06,170,LOT-AIR-2023-M06-SO,4100.0
+SHP-100228,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-06-27,2023-06,175,LOT-AIR-2023-M06-WE,4100.0
+SHP-100229,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-06-26,2023-06,122,LOT-AIR-2023-M06-EA,4100.0
+SHP-100230,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-06-10,2023-06,102,LOT-AIR-2023-M06-AP,4100.0
+SHP-100231,Surge Protection Device (SPD),Protection Devices,North India,2023-06-08,2023-06,755,LOT-SUR-2023-M06-NO,190.0
+SHP-100232,Surge Protection Device (SPD),Protection Devices,South India,2023-06-02,2023-06,687,LOT-SUR-2023-M06-SO,190.0
+SHP-100233,Surge Protection Device (SPD),Protection Devices,West India,2023-06-08,2023-06,791,LOT-SUR-2023-M06-WE,190.0
+SHP-100234,Surge Protection Device (SPD),Protection Devices,East India,2023-06-19,2023-06,498,LOT-SUR-2023-M06-EA,190.0
+SHP-100235,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-06-03,2023-06,413,LOT-SUR-2023-M06-AP,190.0
+SHP-100236,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-06-03,2023-06,280,LOT-POW-2023-M06-NO,1600.0
+SHP-100237,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-06-24,2023-06,247,LOT-POW-2023-M06-SO,1600.0
+SHP-100238,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-06-16,2023-06,267,LOT-POW-2023-M06-WE,1600.0
+SHP-100239,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-06-27,2023-06,192,LOT-POW-2023-M06-EA,1600.0
+SHP-100240,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-06-03,2023-06,154,LOT-POW-2023-M06-AP,1600.0
+SHP-100241,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-07-25,2023-07,340,LOT-ONL-2023-M07-NO,4200.0
+SHP-100242,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-07-18,2023-07,326,LOT-ONL-2023-M07-SO,4200.0
+SHP-100243,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-07-25,2023-07,368,LOT-ONL-2023-M07-WE,4200.0
+SHP-100244,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-07-05,2023-07,214,LOT-ONL-2023-M07-EA,4200.0
+SHP-100245,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-07-05,2023-07,175,LOT-ONL-2023-M07-AP,4200.0
+SHP-100246,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-07-22,2023-07,939,LOT-LIN-2023-M07-NO,380.0
+SHP-100247,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-07-16,2023-07,824,LOT-LIN-2023-M07-SO,380.0
+SHP-100248,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-07-18,2023-07,1027,LOT-LIN-2023-M07-WE,380.0
+SHP-100249,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-07-06,2023-07,657,LOT-LIN-2023-M07-EA,380.0
+SHP-100250,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-07-09,2023-07,564,LOT-LIN-2023-M07-AP,380.0
+SHP-100251,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-07-17,2023-07,57,LOT-MOD-2023-M07-NO,18500.0
+SHP-100252,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-07-28,2023-07,56,LOT-MOD-2023-M07-SO,18500.0
+SHP-100253,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-07-20,2023-07,69,LOT-MOD-2023-M07-WE,18500.0
+SHP-100254,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-07-14,2023-07,40,LOT-MOD-2023-M07-EA,18500.0
+SHP-100255,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-07-07,2023-07,34,LOT-MOD-2023-M07-AP,18500.0
+SHP-100256,LV Switchgear Panel,Switchgear & Distribution,North India,2023-07-18,2023-07,91,LOT-LV -2023-M07-NO,12500.0
+SHP-100257,LV Switchgear Panel,Switchgear & Distribution,South India,2023-07-25,2023-07,93,LOT-LV -2023-M07-SO,12500.0
+SHP-100258,LV Switchgear Panel,Switchgear & Distribution,West India,2023-07-24,2023-07,101,LOT-LV -2023-M07-WE,12500.0
+SHP-100259,LV Switchgear Panel,Switchgear & Distribution,East India,2023-07-23,2023-07,63,LOT-LV -2023-M07-EA,12500.0
+SHP-100260,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-07-07,2023-07,51,LOT-LV -2023-M07-AP,12500.0
+SHP-100261,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-07-23,2023-07,706,LOT-MOL-2023-M07-NO,650.0
+SHP-100262,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-07-10,2023-07,720,LOT-MOL-2023-M07-SO,650.0
+SHP-100263,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-07-13,2023-07,704,LOT-MOL-2023-M07-WE,650.0
+SHP-100264,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-07-22,2023-07,483,LOT-MOL-2023-M07-EA,650.0
+SHP-100265,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-07-21,2023-07,449,LOT-MOL-2023-M07-AP,650.0
+SHP-100266,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-07-12,2023-07,172,LOT-AIR-2023-M07-NO,4100.0
+SHP-100267,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-07-15,2023-07,163,LOT-AIR-2023-M07-SO,4100.0
+SHP-100268,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-07-17,2023-07,186,LOT-AIR-2023-M07-WE,4100.0
+SHP-100269,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-07-15,2023-07,112,LOT-AIR-2023-M07-EA,4100.0
+SHP-100270,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-07-04,2023-07,97,LOT-AIR-2023-M07-AP,4100.0
+SHP-100271,Surge Protection Device (SPD),Protection Devices,North India,2023-07-08,2023-07,762,LOT-SUR-2023-M07-NO,190.0
+SHP-100272,Surge Protection Device (SPD),Protection Devices,South India,2023-07-08,2023-07,729,LOT-SUR-2023-M07-SO,190.0
+SHP-100273,Surge Protection Device (SPD),Protection Devices,West India,2023-07-03,2023-07,836,LOT-SUR-2023-M07-WE,190.0
+SHP-100274,Surge Protection Device (SPD),Protection Devices,East India,2023-07-11,2023-07,539,LOT-SUR-2023-M07-EA,190.0
+SHP-100275,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-07-01,2023-07,440,LOT-SUR-2023-M07-AP,190.0
+SHP-100276,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-07-19,2023-07,270,LOT-POW-2023-M07-NO,1600.0
+SHP-100277,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-07-18,2023-07,272,LOT-POW-2023-M07-SO,1600.0
+SHP-100278,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-07-08,2023-07,302,LOT-POW-2023-M07-WE,1600.0
+SHP-100279,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-07-19,2023-07,195,LOT-POW-2023-M07-EA,1600.0
+SHP-100280,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-07-08,2023-07,173,LOT-POW-2023-M07-AP,1600.0
+SHP-100281,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-08-01,2023-08,272,LOT-ONL-2023-M08-NO,4200.0
+SHP-100282,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-08-03,2023-08,236,LOT-ONL-2023-M08-SO,4200.0
+SHP-100283,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-08-23,2023-08,270,LOT-ONL-2023-M08-WE,4200.0
+SHP-100284,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-08-21,2023-08,164,LOT-ONL-2023-M08-EA,4200.0
+SHP-100285,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-08-02,2023-08,156,LOT-ONL-2023-M08-AP,4200.0
+SHP-100286,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-08-08,2023-08,644,LOT-LIN-2023-M08-NO,380.0
+SHP-100287,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-08-03,2023-08,667,LOT-LIN-2023-M08-SO,380.0
+SHP-100288,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-08-02,2023-08,769,LOT-LIN-2023-M08-WE,380.0
+SHP-100289,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-08-28,2023-08,470,LOT-LIN-2023-M08-EA,380.0
+SHP-100290,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-08-11,2023-08,434,LOT-LIN-2023-M08-AP,380.0
+SHP-100291,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-08-03,2023-08,44,LOT-MOD-2023-M08-NO,18500.0
+SHP-100292,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-08-17,2023-08,42,LOT-MOD-2023-M08-SO,18500.0
+SHP-100293,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-08-08,2023-08,55,LOT-MOD-2023-M08-WE,18500.0
+SHP-100294,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-08-09,2023-08,32,LOT-MOD-2023-M08-EA,18500.0
+SHP-100295,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-08-22,2023-08,27,LOT-MOD-2023-M08-AP,18500.0
+SHP-100296,LV Switchgear Panel,Switchgear & Distribution,North India,2023-08-16,2023-08,72,LOT-LV -2023-M08-NO,12500.0
+SHP-100297,LV Switchgear Panel,Switchgear & Distribution,South India,2023-08-07,2023-08,72,LOT-LV -2023-M08-SO,12500.0
+SHP-100298,LV Switchgear Panel,Switchgear & Distribution,West India,2023-08-18,2023-08,74,LOT-LV -2023-M08-WE,12500.0
+SHP-100299,LV Switchgear Panel,Switchgear & Distribution,East India,2023-08-05,2023-08,51,LOT-LV -2023-M08-EA,12500.0
+SHP-100300,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-08-24,2023-08,40,LOT-LV -2023-M08-AP,12500.0
+SHP-100301,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-08-19,2023-08,512,LOT-MOL-2023-M08-NO,650.0
+SHP-100302,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-08-19,2023-08,535,LOT-MOL-2023-M08-SO,650.0
+SHP-100303,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-08-16,2023-08,609,LOT-MOL-2023-M08-WE,650.0
+SHP-100304,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-08-08,2023-08,397,LOT-MOL-2023-M08-EA,650.0
+SHP-100305,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-08-26,2023-08,352,LOT-MOL-2023-M08-AP,650.0
+SHP-100306,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-08-16,2023-08,144,LOT-AIR-2023-M08-NO,4100.0
+SHP-100307,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-08-26,2023-08,127,LOT-AIR-2023-M08-SO,4100.0
+SHP-100308,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-08-14,2023-08,140,LOT-AIR-2023-M08-WE,4100.0
+SHP-100309,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-08-07,2023-08,97,LOT-AIR-2023-M08-EA,4100.0
+SHP-100310,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-08-04,2023-08,77,LOT-AIR-2023-M08-AP,4100.0
+SHP-100311,Surge Protection Device (SPD),Protection Devices,North India,2023-08-04,2023-08,575,LOT-SUR-2023-M08-NO,190.0
+SHP-100312,Surge Protection Device (SPD),Protection Devices,South India,2023-08-22,2023-08,514,LOT-SUR-2023-M08-SO,190.0
+SHP-100313,Surge Protection Device (SPD),Protection Devices,West India,2023-08-14,2023-08,578,LOT-SUR-2023-M08-WE,190.0
+SHP-100314,Surge Protection Device (SPD),Protection Devices,East India,2023-08-12,2023-08,437,LOT-SUR-2023-M08-EA,190.0
+SHP-100315,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-08-14,2023-08,375,LOT-SUR-2023-M08-AP,190.0
+SHP-100316,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-08-14,2023-08,225,LOT-POW-2023-M08-NO,1600.0
+SHP-100317,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-08-15,2023-08,205,LOT-POW-2023-M08-SO,1600.0
+SHP-100318,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-08-28,2023-08,223,LOT-POW-2023-M08-WE,1600.0
+SHP-100319,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-08-24,2023-08,142,LOT-POW-2023-M08-EA,1600.0
+SHP-100320,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-08-02,2023-08,126,LOT-POW-2023-M08-AP,1600.0
+SHP-100321,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-09-22,2023-09,258,LOT-ONL-2023-M09-NO,4200.0
+SHP-100322,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-09-21,2023-09,254,LOT-ONL-2023-M09-SO,4200.0
+SHP-100323,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-09-21,2023-09,286,LOT-ONL-2023-M09-WE,4200.0
+SHP-100324,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-09-04,2023-09,170,LOT-ONL-2023-M09-EA,4200.0
+SHP-100325,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-09-02,2023-09,168,LOT-ONL-2023-M09-AP,4200.0
+SHP-100326,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-09-13,2023-09,736,LOT-LIN-2023-M09-NO,380.0
+SHP-100327,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-09-24,2023-09,682,LOT-LIN-2023-M09-SO,380.0
+SHP-100328,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-09-11,2023-09,783,LOT-LIN-2023-M09-WE,380.0
+SHP-100329,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-09-26,2023-09,484,LOT-LIN-2023-M09-EA,380.0
+SHP-100330,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-09-28,2023-09,410,LOT-LIN-2023-M09-AP,380.0
+SHP-100331,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-09-04,2023-09,47,LOT-MOD-2023-M09-NO,18500.0
+SHP-100332,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-09-08,2023-09,48,LOT-MOD-2023-M09-SO,18500.0
+SHP-100333,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-09-07,2023-09,48,LOT-MOD-2023-M09-WE,18500.0
+SHP-100334,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-09-07,2023-09,31,LOT-MOD-2023-M09-EA,18500.0
+SHP-100335,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-09-18,2023-09,27,LOT-MOD-2023-M09-AP,18500.0
+SHP-100336,LV Switchgear Panel,Switchgear & Distribution,North India,2023-09-15,2023-09,67,LOT-LV -2023-M09-NO,12500.0
+SHP-100337,LV Switchgear Panel,Switchgear & Distribution,South India,2023-09-05,2023-09,74,LOT-LV -2023-M09-SO,12500.0
+SHP-100338,LV Switchgear Panel,Switchgear & Distribution,West India,2023-09-14,2023-09,82,LOT-LV -2023-M09-WE,12500.0
+SHP-100339,LV Switchgear Panel,Switchgear & Distribution,East India,2023-09-06,2023-09,50,LOT-LV -2023-M09-EA,12500.0
+SHP-100340,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-09-09,2023-09,41,LOT-LV -2023-M09-AP,12500.0
+SHP-100341,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-09-15,2023-09,559,LOT-MOL-2023-M09-NO,650.0
+SHP-100342,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-09-08,2023-09,533,LOT-MOL-2023-M09-SO,650.0
+SHP-100343,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-09-28,2023-09,573,LOT-MOL-2023-M09-WE,650.0
+SHP-100344,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-09-03,2023-09,385,LOT-MOL-2023-M09-EA,650.0
+SHP-100345,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-09-15,2023-09,334,LOT-MOL-2023-M09-AP,650.0
+SHP-100346,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-09-26,2023-09,136,LOT-AIR-2023-M09-NO,4100.0
+SHP-100347,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-09-28,2023-09,131,LOT-AIR-2023-M09-SO,4100.0
+SHP-100348,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-09-28,2023-09,133,LOT-AIR-2023-M09-WE,4100.0
+SHP-100349,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-09-18,2023-09,91,LOT-AIR-2023-M09-EA,4100.0
+SHP-100350,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-09-04,2023-09,83,LOT-AIR-2023-M09-AP,4100.0
+SHP-100351,Surge Protection Device (SPD),Protection Devices,North India,2023-09-02,2023-09,585,LOT-SUR-2023-M09-NO,190.0
+SHP-100352,Surge Protection Device (SPD),Protection Devices,South India,2023-09-21,2023-09,594,LOT-SUR-2023-M09-SO,190.0
+SHP-100353,Surge Protection Device (SPD),Protection Devices,West India,2023-09-18,2023-09,653,LOT-SUR-2023-M09-WE,190.0
+SHP-100354,Surge Protection Device (SPD),Protection Devices,East India,2023-09-27,2023-09,382,LOT-SUR-2023-M09-EA,190.0
+SHP-100355,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-09-01,2023-09,328,LOT-SUR-2023-M09-AP,190.0
+SHP-100356,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-09-03,2023-09,224,LOT-POW-2023-M09-NO,1600.0
+SHP-100357,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-09-25,2023-09,192,LOT-POW-2023-M09-SO,1600.0
+SHP-100358,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-09-28,2023-09,242,LOT-POW-2023-M09-WE,1600.0
+SHP-100359,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-09-08,2023-09,164,LOT-POW-2023-M09-EA,1600.0
+SHP-100360,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-09-06,2023-09,135,LOT-POW-2023-M09-AP,1600.0
+SHP-100361,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-10-14,2023-10,252,LOT-ONL-2023-M10-NO,4200.0
+SHP-100362,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-10-16,2023-10,252,LOT-ONL-2023-M10-SO,4200.0
+SHP-100363,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-10-16,2023-10,277,LOT-ONL-2023-M10-WE,4200.0
+SHP-100364,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-10-07,2023-10,180,LOT-ONL-2023-M10-EA,4200.0
+SHP-100365,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-10-28,2023-10,168,LOT-ONL-2023-M10-AP,4200.0
+SHP-100366,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-10-13,2023-10,696,LOT-LIN-2023-M10-NO,380.0
+SHP-100367,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-10-02,2023-10,735,LOT-LIN-2023-M10-SO,380.0
+SHP-100368,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-10-06,2023-10,828,LOT-LIN-2023-M10-WE,380.0
+SHP-100369,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-10-13,2023-10,467,LOT-LIN-2023-M10-EA,380.0
+SHP-100370,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-10-01,2023-10,399,LOT-LIN-2023-M10-AP,380.0
+SHP-100371,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-10-13,2023-10,45,LOT-MOD-2023-M10-NO,18500.0
+SHP-100372,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-10-09,2023-10,42,LOT-MOD-2023-M10-SO,18500.0
+SHP-100373,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-10-26,2023-10,49,LOT-MOD-2023-M10-WE,18500.0
+SHP-100374,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-10-26,2023-10,35,LOT-MOD-2023-M10-EA,18500.0
+SHP-100375,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-10-15,2023-10,27,LOT-MOD-2023-M10-AP,18500.0
+SHP-100376,LV Switchgear Panel,Switchgear & Distribution,North India,2023-10-10,2023-10,71,LOT-LV -2023-M10-NO,12500.0
+SHP-100377,LV Switchgear Panel,Switchgear & Distribution,South India,2023-10-14,2023-10,74,LOT-LV -2023-M10-SO,12500.0
+SHP-100378,LV Switchgear Panel,Switchgear & Distribution,West India,2023-10-23,2023-10,73,LOT-LV -2023-M10-WE,12500.0
+SHP-100379,LV Switchgear Panel,Switchgear & Distribution,East India,2023-10-24,2023-10,54,LOT-LV -2023-M10-EA,12500.0
+SHP-100380,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-10-26,2023-10,43,LOT-LV -2023-M10-AP,12500.0
+SHP-100381,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-10-18,2023-10,525,LOT-MOL-2023-M10-NO,650.0
+SHP-100382,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-10-22,2023-10,558,LOT-MOL-2023-M10-SO,650.0
+SHP-100383,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-10-23,2023-10,626,LOT-MOL-2023-M10-WE,650.0
+SHP-100384,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-10-16,2023-10,418,LOT-MOL-2023-M10-EA,650.0
+SHP-100385,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-10-05,2023-10,357,LOT-MOL-2023-M10-AP,650.0
+SHP-100386,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-10-07,2023-10,142,LOT-AIR-2023-M10-NO,4100.0
+SHP-100387,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-10-10,2023-10,123,LOT-AIR-2023-M10-SO,4100.0
+SHP-100388,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-10-07,2023-10,138,LOT-AIR-2023-M10-WE,4100.0
+SHP-100389,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-10-02,2023-10,97,LOT-AIR-2023-M10-EA,4100.0
+SHP-100390,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-10-19,2023-10,86,LOT-AIR-2023-M10-AP,4100.0
+SHP-100391,Surge Protection Device (SPD),Protection Devices,North India,2023-10-24,2023-10,639,LOT-SUR-2023-M10-NO,190.0
+SHP-100392,Surge Protection Device (SPD),Protection Devices,South India,2023-10-18,2023-10,553,LOT-SUR-2023-M10-SO,190.0
+SHP-100393,Surge Protection Device (SPD),Protection Devices,West India,2023-10-02,2023-10,624,LOT-SUR-2023-M10-WE,190.0
+SHP-100394,Surge Protection Device (SPD),Protection Devices,East India,2023-10-24,2023-10,429,LOT-SUR-2023-M10-EA,190.0
+SHP-100395,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-10-11,2023-10,347,LOT-SUR-2023-M10-AP,190.0
+SHP-100396,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-10-02,2023-10,237,LOT-POW-2023-M10-NO,1600.0
+SHP-100397,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-10-02,2023-10,224,LOT-POW-2023-M10-SO,1600.0
+SHP-100398,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-10-19,2023-10,236,LOT-POW-2023-M10-WE,1600.0
+SHP-100399,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-10-16,2023-10,160,LOT-POW-2023-M10-EA,1600.0
+SHP-100400,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-10-17,2023-10,140,LOT-POW-2023-M10-AP,1600.0
+SHP-100401,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-11-28,2023-11,288,LOT-ONL-2023-M11-NO,4200.0
+SHP-100402,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-11-17,2023-11,318,LOT-ONL-2023-M11-SO,4200.0
+SHP-100403,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-11-06,2023-11,337,LOT-ONL-2023-M11-WE,4200.0
+SHP-100404,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-11-02,2023-11,228,LOT-ONL-2023-M11-EA,4200.0
+SHP-100405,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-11-17,2023-11,182,LOT-ONL-2023-M11-AP,4200.0
+SHP-100406,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-11-03,2023-11,918,LOT-LIN-2023-M11-NO,380.0
+SHP-100407,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-11-28,2023-11,804,LOT-LIN-2023-M11-SO,380.0
+SHP-100408,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-11-06,2023-11,851,LOT-LIN-2023-M11-WE,380.0
+SHP-100409,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-11-03,2023-11,639,LOT-LIN-2023-M11-EA,380.0
+SHP-100410,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-11-20,2023-11,484,LOT-LIN-2023-M11-AP,380.0
+SHP-100411,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-11-03,2023-11,57,LOT-MOD-2023-M11-NO,18500.0
+SHP-100412,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-11-22,2023-11,61,LOT-MOD-2023-M11-SO,18500.0
+SHP-100413,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-11-28,2023-11,69,LOT-MOD-2023-M11-WE,18500.0
+SHP-100414,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-11-08,2023-11,41,LOT-MOD-2023-M11-EA,18500.0
+SHP-100415,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-11-13,2023-11,36,LOT-MOD-2023-M11-AP,18500.0
+SHP-100416,LV Switchgear Panel,Switchgear & Distribution,North India,2023-11-04,2023-11,87,LOT-LV -2023-M11-NO,12500.0
+SHP-100417,LV Switchgear Panel,Switchgear & Distribution,South India,2023-11-19,2023-11,81,LOT-LV -2023-M11-SO,12500.0
+SHP-100418,LV Switchgear Panel,Switchgear & Distribution,West India,2023-11-08,2023-11,93,LOT-LV -2023-M11-WE,12500.0
+SHP-100419,LV Switchgear Panel,Switchgear & Distribution,East India,2023-11-19,2023-11,63,LOT-LV -2023-M11-EA,12500.0
+SHP-100420,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-11-20,2023-11,56,LOT-LV -2023-M11-AP,12500.0
+SHP-100421,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-11-02,2023-11,715,LOT-MOL-2023-M11-NO,650.0
+SHP-100422,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-11-20,2023-11,684,LOT-MOL-2023-M11-SO,650.0
+SHP-100423,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-11-03,2023-11,685,LOT-MOL-2023-M11-WE,650.0
+SHP-100424,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-11-14,2023-11,472,LOT-MOL-2023-M11-EA,650.0
+SHP-100425,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-11-22,2023-11,381,LOT-MOL-2023-M11-AP,650.0
+SHP-100426,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-11-19,2023-11,164,LOT-AIR-2023-M11-NO,4100.0
+SHP-100427,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-11-19,2023-11,153,LOT-AIR-2023-M11-SO,4100.0
+SHP-100428,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-11-17,2023-11,189,LOT-AIR-2023-M11-WE,4100.0
+SHP-100429,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-11-11,2023-11,110,LOT-AIR-2023-M11-EA,4100.0
+SHP-100430,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-11-09,2023-11,92,LOT-AIR-2023-M11-AP,4100.0
+SHP-100431,Surge Protection Device (SPD),Protection Devices,North India,2023-11-07,2023-11,664,LOT-SUR-2023-M11-NO,190.0
+SHP-100432,Surge Protection Device (SPD),Protection Devices,South India,2023-11-22,2023-11,710,LOT-SUR-2023-M11-SO,190.0
+SHP-100433,Surge Protection Device (SPD),Protection Devices,West India,2023-11-23,2023-11,787,LOT-SUR-2023-M11-WE,190.0
+SHP-100434,Surge Protection Device (SPD),Protection Devices,East India,2023-11-11,2023-11,458,LOT-SUR-2023-M11-EA,190.0
+SHP-100435,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-11-08,2023-11,400,LOT-SUR-2023-M11-AP,190.0
+SHP-100436,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-11-09,2023-11,275,LOT-POW-2023-M11-NO,1600.0
+SHP-100437,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-11-13,2023-11,235,LOT-POW-2023-M11-SO,1600.0
+SHP-100438,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-11-05,2023-11,305,LOT-POW-2023-M11-WE,1600.0
+SHP-100439,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-11-22,2023-11,192,LOT-POW-2023-M11-EA,1600.0
+SHP-100440,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-11-21,2023-11,149,LOT-POW-2023-M11-AP,1600.0
+SHP-100441,Online UPS 10kVA,Uninterruptible Power Supply,North India,2023-12-10,2023-12,289,LOT-ONL-2023-M12-NO,4200.0
+SHP-100442,Online UPS 10kVA,Uninterruptible Power Supply,South India,2023-12-15,2023-12,324,LOT-ONL-2023-M12-SO,4200.0
+SHP-100443,Online UPS 10kVA,Uninterruptible Power Supply,West India,2023-12-11,2023-12,331,LOT-ONL-2023-M12-WE,4200.0
+SHP-100444,Online UPS 10kVA,Uninterruptible Power Supply,East India,2023-12-25,2023-12,212,LOT-ONL-2023-M12-EA,4200.0
+SHP-100445,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2023-12-03,2023-12,200,LOT-ONL-2023-M12-AP,4200.0
+SHP-100446,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2023-12-01,2023-12,931,LOT-LIN-2023-M12-NO,380.0
+SHP-100447,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2023-12-15,2023-12,896,LOT-LIN-2023-M12-SO,380.0
+SHP-100448,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2023-12-20,2023-12,980,LOT-LIN-2023-M12-WE,380.0
+SHP-100449,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2023-12-19,2023-12,586,LOT-LIN-2023-M12-EA,380.0
+SHP-100450,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2023-12-04,2023-12,486,LOT-LIN-2023-M12-AP,380.0
+SHP-100451,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2023-12-03,2023-12,62,LOT-MOD-2023-M12-NO,18500.0
+SHP-100452,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2023-12-18,2023-12,57,LOT-MOD-2023-M12-SO,18500.0
+SHP-100453,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2023-12-07,2023-12,63,LOT-MOD-2023-M12-WE,18500.0
+SHP-100454,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2023-12-17,2023-12,44,LOT-MOD-2023-M12-EA,18500.0
+SHP-100455,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2023-12-09,2023-12,33,LOT-MOD-2023-M12-AP,18500.0
+SHP-100456,LV Switchgear Panel,Switchgear & Distribution,North India,2023-12-05,2023-12,89,LOT-LV -2023-M12-NO,12500.0
+SHP-100457,LV Switchgear Panel,Switchgear & Distribution,South India,2023-12-12,2023-12,77,LOT-LV -2023-M12-SO,12500.0
+SHP-100458,LV Switchgear Panel,Switchgear & Distribution,West India,2023-12-03,2023-12,96,LOT-LV -2023-M12-WE,12500.0
+SHP-100459,LV Switchgear Panel,Switchgear & Distribution,East India,2023-12-08,2023-12,57,LOT-LV -2023-M12-EA,12500.0
+SHP-100460,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2023-12-12,2023-12,50,LOT-LV -2023-M12-AP,12500.0
+SHP-100461,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2023-12-10,2023-12,637,LOT-MOL-2023-M12-NO,650.0
+SHP-100462,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2023-12-06,2023-12,671,LOT-MOL-2023-M12-SO,650.0
+SHP-100463,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2023-12-15,2023-12,776,LOT-MOL-2023-M12-WE,650.0
+SHP-100464,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2023-12-27,2023-12,483,LOT-MOL-2023-M12-EA,650.0
+SHP-100465,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2023-12-18,2023-12,450,LOT-MOL-2023-M12-AP,650.0
+SHP-100466,Air Circuit Breaker (ACB),Circuit Protection,North India,2023-12-23,2023-12,159,LOT-AIR-2023-M12-NO,4100.0
+SHP-100467,Air Circuit Breaker (ACB),Circuit Protection,South India,2023-12-10,2023-12,150,LOT-AIR-2023-M12-SO,4100.0
+SHP-100468,Air Circuit Breaker (ACB),Circuit Protection,West India,2023-12-20,2023-12,189,LOT-AIR-2023-M12-WE,4100.0
+SHP-100469,Air Circuit Breaker (ACB),Circuit Protection,East India,2023-12-26,2023-12,108,LOT-AIR-2023-M12-EA,4100.0
+SHP-100470,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2023-12-21,2023-12,107,LOT-AIR-2023-M12-AP,4100.0
+SHP-100471,Surge Protection Device (SPD),Protection Devices,North India,2023-12-17,2023-12,651,LOT-SUR-2023-M12-NO,190.0
+SHP-100472,Surge Protection Device (SPD),Protection Devices,South India,2023-12-01,2023-12,740,LOT-SUR-2023-M12-SO,190.0
+SHP-100473,Surge Protection Device (SPD),Protection Devices,West India,2023-12-22,2023-12,712,LOT-SUR-2023-M12-WE,190.0
+SHP-100474,Surge Protection Device (SPD),Protection Devices,East India,2023-12-27,2023-12,531,LOT-SUR-2023-M12-EA,190.0
+SHP-100475,Surge Protection Device (SPD),Protection Devices,APAC Export,2023-12-18,2023-12,436,LOT-SUR-2023-M12-AP,190.0
+SHP-100476,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2023-12-10,2023-12,291,LOT-POW-2023-M12-NO,1600.0
+SHP-100477,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2023-12-22,2023-12,236,LOT-POW-2023-M12-SO,1600.0
+SHP-100478,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2023-12-04,2023-12,293,LOT-POW-2023-M12-WE,1600.0
+SHP-100479,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2023-12-05,2023-12,201,LOT-POW-2023-M12-EA,1600.0
+SHP-100480,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2023-12-09,2023-12,163,LOT-POW-2023-M12-AP,1600.0
+SHP-100481,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-01-04,2024-01,227,LOT-ONL-2024-M01-NO,4200.0
+SHP-100482,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-01-04,2024-01,220,LOT-ONL-2024-M01-SO,4200.0
+SHP-100483,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-01-24,2024-01,239,LOT-ONL-2024-M01-WE,4200.0
+SHP-100484,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-01-18,2024-01,158,LOT-ONL-2024-M01-EA,4200.0
+SHP-100485,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-01-05,2024-01,137,LOT-ONL-2024-M01-AP,4200.0
+SHP-100486,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-01-09,2024-01,658,LOT-LIN-2024-M01-NO,380.0
+SHP-100487,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-01-10,2024-01,540,LOT-LIN-2024-M01-SO,380.0
+SHP-100488,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-01-20,2024-01,641,LOT-LIN-2024-M01-WE,380.0
+SHP-100489,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-01-07,2024-01,461,LOT-LIN-2024-M01-EA,380.0
+SHP-100490,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-01-23,2024-01,400,LOT-LIN-2024-M01-AP,380.0
+SHP-100491,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-01-11,2024-01,42,LOT-MOD-2024-M01-NO,18500.0
+SHP-100492,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-01-07,2024-01,41,LOT-MOD-2024-M01-SO,18500.0
+SHP-100493,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-01-22,2024-01,44,LOT-MOD-2024-M01-WE,18500.0
+SHP-100494,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-01-21,2024-01,27,LOT-MOD-2024-M01-EA,18500.0
+SHP-100495,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-01-28,2024-01,25,LOT-MOD-2024-M01-AP,18500.0
+SHP-100496,LV Switchgear Panel,Switchgear & Distribution,North India,2024-01-09,2024-01,61,LOT-LV -2024-M01-NO,12500.0
+SHP-100497,LV Switchgear Panel,Switchgear & Distribution,South India,2024-01-17,2024-01,61,LOT-LV -2024-M01-SO,12500.0
+SHP-100498,LV Switchgear Panel,Switchgear & Distribution,West India,2024-01-16,2024-01,63,LOT-LV -2024-M01-WE,12500.0
+SHP-100499,LV Switchgear Panel,Switchgear & Distribution,East India,2024-01-09,2024-01,47,LOT-LV -2024-M01-EA,12500.0
+SHP-100500,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-01-28,2024-01,42,LOT-LV -2024-M01-AP,12500.0
+SHP-100501,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-01-02,2024-01,504,LOT-MOL-2024-M01-NO,650.0
+SHP-100502,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-01-03,2024-01,469,LOT-MOL-2024-M01-SO,650.0
+SHP-100503,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-01-21,2024-01,511,LOT-MOL-2024-M01-WE,650.0
+SHP-100504,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-01-14,2024-01,358,LOT-MOL-2024-M01-EA,650.0
+SHP-100505,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-01-27,2024-01,306,LOT-MOL-2024-M01-AP,650.0
+SHP-100506,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-01-09,2024-01,109,LOT-AIR-2024-M01-NO,4100.0
+SHP-100507,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-01-02,2024-01,119,LOT-AIR-2024-M01-SO,4100.0
+SHP-100508,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-01-01,2024-01,133,LOT-AIR-2024-M01-WE,4100.0
+SHP-100509,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-01-11,2024-01,87,LOT-AIR-2024-M01-EA,4100.0
+SHP-100510,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-01-25,2024-01,73,LOT-AIR-2024-M01-AP,4100.0
+SHP-100511,Surge Protection Device (SPD),Protection Devices,North India,2024-01-05,2024-01,518,LOT-SUR-2024-M01-NO,190.0
+SHP-100512,Surge Protection Device (SPD),Protection Devices,South India,2024-01-21,2024-01,479,LOT-SUR-2024-M01-SO,190.0
+SHP-100513,Surge Protection Device (SPD),Protection Devices,West India,2024-01-09,2024-01,595,LOT-SUR-2024-M01-WE,190.0
+SHP-100514,Surge Protection Device (SPD),Protection Devices,East India,2024-01-06,2024-01,376,LOT-SUR-2024-M01-EA,190.0
+SHP-100515,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-01-24,2024-01,284,LOT-SUR-2024-M01-AP,190.0
+SHP-100516,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-01-15,2024-01,174,LOT-POW-2024-M01-NO,1600.0
+SHP-100517,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-01-18,2024-01,178,LOT-POW-2024-M01-SO,1600.0
+SHP-100518,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-01-23,2024-01,218,LOT-POW-2024-M01-WE,1600.0
+SHP-100519,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-01-14,2024-01,144,LOT-POW-2024-M01-EA,1600.0
+SHP-100520,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-01-18,2024-01,108,LOT-POW-2024-M01-AP,1600.0
+SHP-100521,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-02-01,2024-02,227,LOT-ONL-2024-M02-NO,4200.0
+SHP-100522,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-02-04,2024-02,209,LOT-ONL-2024-M02-SO,4200.0
+SHP-100523,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-02-03,2024-02,263,LOT-ONL-2024-M02-WE,4200.0
+SHP-100524,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-02-23,2024-02,165,LOT-ONL-2024-M02-EA,4200.0
+SHP-100525,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-02-05,2024-02,144,LOT-ONL-2024-M02-AP,4200.0
+SHP-100526,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-02-18,2024-02,614,LOT-LIN-2024-M02-NO,380.0
+SHP-100527,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-02-02,2024-02,582,LOT-LIN-2024-M02-SO,380.0
+SHP-100528,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-02-27,2024-02,644,LOT-LIN-2024-M02-WE,380.0
+SHP-100529,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-02-12,2024-02,395,LOT-LIN-2024-M02-EA,380.0
+SHP-100530,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-02-19,2024-02,400,LOT-LIN-2024-M02-AP,380.0
+SHP-100531,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-02-18,2024-02,45,LOT-MOD-2024-M02-NO,18500.0
+SHP-100532,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-02-05,2024-02,44,LOT-MOD-2024-M02-SO,18500.0
+SHP-100533,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-02-14,2024-02,50,LOT-MOD-2024-M02-WE,18500.0
+SHP-100534,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-02-05,2024-02,29,LOT-MOD-2024-M02-EA,18500.0
+SHP-100535,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-02-02,2024-02,27,LOT-MOD-2024-M02-AP,18500.0
+SHP-100536,LV Switchgear Panel,Switchgear & Distribution,North India,2024-02-10,2024-02,69,LOT-LV -2024-M02-NO,12500.0
+SHP-100537,LV Switchgear Panel,Switchgear & Distribution,South India,2024-02-12,2024-02,64,LOT-LV -2024-M02-SO,12500.0
+SHP-100538,LV Switchgear Panel,Switchgear & Distribution,West India,2024-02-26,2024-02,66,LOT-LV -2024-M02-WE,12500.0
+SHP-100539,LV Switchgear Panel,Switchgear & Distribution,East India,2024-02-28,2024-02,44,LOT-LV -2024-M02-EA,12500.0
+SHP-100540,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-02-02,2024-02,36,LOT-LV -2024-M02-AP,12500.0
+SHP-100541,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-02-12,2024-02,529,LOT-MOL-2024-M02-NO,650.0
+SHP-100542,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-02-07,2024-02,477,LOT-MOL-2024-M02-SO,650.0
+SHP-100543,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-02-22,2024-02,507,LOT-MOL-2024-M02-WE,650.0
+SHP-100544,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-02-08,2024-02,351,LOT-MOL-2024-M02-EA,650.0
+SHP-100545,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-02-22,2024-02,304,LOT-MOL-2024-M02-AP,650.0
+SHP-100546,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-02-04,2024-02,114,LOT-AIR-2024-M02-NO,4100.0
+SHP-100547,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-02-12,2024-02,104,LOT-AIR-2024-M02-SO,4100.0
+SHP-100548,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-02-25,2024-02,131,LOT-AIR-2024-M02-WE,4100.0
+SHP-100549,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-02-18,2024-02,81,LOT-AIR-2024-M02-EA,4100.0
+SHP-100550,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-02-28,2024-02,74,LOT-AIR-2024-M02-AP,4100.0
+SHP-100551,Surge Protection Device (SPD),Protection Devices,North India,2024-02-14,2024-02,513,LOT-SUR-2024-M02-NO,190.0
+SHP-100552,Surge Protection Device (SPD),Protection Devices,South India,2024-02-20,2024-02,520,LOT-SUR-2024-M02-SO,190.0
+SHP-100553,Surge Protection Device (SPD),Protection Devices,West India,2024-02-24,2024-02,561,LOT-SUR-2024-M02-WE,190.0
+SHP-100554,Surge Protection Device (SPD),Protection Devices,East India,2024-02-05,2024-02,359,LOT-SUR-2024-M02-EA,190.0
+SHP-100555,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-02-08,2024-02,332,LOT-SUR-2024-M02-AP,190.0
+SHP-100556,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-02-28,2024-02,188,LOT-POW-2024-M02-NO,1600.0
+SHP-100557,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-02-06,2024-02,171,LOT-POW-2024-M02-SO,1600.0
+SHP-100558,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-02-26,2024-02,190,LOT-POW-2024-M02-WE,1600.0
+SHP-100559,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-02-26,2024-02,139,LOT-POW-2024-M02-EA,1600.0
+SHP-100560,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-02-06,2024-02,119,LOT-POW-2024-M02-AP,1600.0
+SHP-100561,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-03-14,2024-03,274,LOT-ONL-2024-M03-NO,4200.0
+SHP-100562,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-03-01,2024-03,240,LOT-ONL-2024-M03-SO,4200.0
+SHP-100563,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-03-06,2024-03,269,LOT-ONL-2024-M03-WE,4200.0
+SHP-100564,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-03-24,2024-03,168,LOT-ONL-2024-M03-EA,4200.0
+SHP-100565,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-03-11,2024-03,156,LOT-ONL-2024-M03-AP,4200.0
+SHP-100566,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-03-26,2024-03,743,LOT-LIN-2024-M03-NO,380.0
+SHP-100567,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-03-14,2024-03,686,LOT-LIN-2024-M03-SO,380.0
+SHP-100568,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-03-26,2024-03,786,LOT-LIN-2024-M03-WE,380.0
+SHP-100569,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-03-22,2024-03,545,LOT-LIN-2024-M03-EA,380.0
+SHP-100570,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-03-28,2024-03,433,LOT-LIN-2024-M03-AP,380.0
+SHP-100571,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-03-24,2024-03,50,LOT-MOD-2024-M03-NO,18500.0
+SHP-100572,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-03-26,2024-03,50,LOT-MOD-2024-M03-SO,18500.0
+SHP-100573,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-03-08,2024-03,53,LOT-MOD-2024-M03-WE,18500.0
+SHP-100574,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-03-09,2024-03,35,LOT-MOD-2024-M03-EA,18500.0
+SHP-100575,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-03-06,2024-03,32,LOT-MOD-2024-M03-AP,18500.0
+SHP-100576,LV Switchgear Panel,Switchgear & Distribution,North India,2024-03-26,2024-03,81,LOT-LV -2024-M03-NO,12500.0
+SHP-100577,LV Switchgear Panel,Switchgear & Distribution,South India,2024-03-23,2024-03,67,LOT-LV -2024-M03-SO,12500.0
+SHP-100578,LV Switchgear Panel,Switchgear & Distribution,West India,2024-03-04,2024-03,88,LOT-LV -2024-M03-WE,12500.0
+SHP-100579,LV Switchgear Panel,Switchgear & Distribution,East India,2024-03-13,2024-03,52,LOT-LV -2024-M03-EA,12500.0
+SHP-100580,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-03-28,2024-03,44,LOT-LV -2024-M03-AP,12500.0
+SHP-100581,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-03-02,2024-03,575,LOT-MOL-2024-M03-NO,650.0
+SHP-100582,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-03-28,2024-03,602,LOT-MOL-2024-M03-SO,650.0
+SHP-100583,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-03-16,2024-03,629,LOT-MOL-2024-M03-WE,650.0
+SHP-100584,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-03-08,2024-03,391,LOT-MOL-2024-M03-EA,650.0
+SHP-100585,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-03-07,2024-03,361,LOT-MOL-2024-M03-AP,650.0
+SHP-100586,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-03-27,2024-03,132,LOT-AIR-2024-M03-NO,4100.0
+SHP-100587,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-03-15,2024-03,122,LOT-AIR-2024-M03-SO,4100.0
+SHP-100588,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-03-12,2024-03,140,LOT-AIR-2024-M03-WE,4100.0
+SHP-100589,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-03-10,2024-03,90,LOT-AIR-2024-M03-EA,4100.0
+SHP-100590,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-03-27,2024-03,79,LOT-AIR-2024-M03-AP,4100.0
+SHP-100591,Surge Protection Device (SPD),Protection Devices,North India,2024-03-26,2024-03,566,LOT-SUR-2024-M03-NO,190.0
+SHP-100592,Surge Protection Device (SPD),Protection Devices,South India,2024-03-28,2024-03,593,LOT-SUR-2024-M03-SO,190.0
+SHP-100593,Surge Protection Device (SPD),Protection Devices,West India,2024-03-08,2024-03,620,LOT-SUR-2024-M03-WE,190.0
+SHP-100594,Surge Protection Device (SPD),Protection Devices,East India,2024-03-08,2024-03,409,LOT-SUR-2024-M03-EA,190.0
+SHP-100595,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-03-01,2024-03,394,LOT-SUR-2024-M03-AP,190.0
+SHP-100596,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-03-22,2024-03,225,LOT-POW-2024-M03-NO,1600.0
+SHP-100597,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-03-07,2024-03,223,LOT-POW-2024-M03-SO,1600.0
+SHP-100598,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-03-13,2024-03,232,LOT-POW-2024-M03-WE,1600.0
+SHP-100599,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-03-11,2024-03,149,LOT-POW-2024-M03-EA,1600.0
+SHP-100600,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-03-09,2024-03,126,LOT-POW-2024-M03-AP,1600.0
+SHP-100601,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-04-28,2024-04,250,LOT-ONL-2024-M04-NO,4200.0
+SHP-100602,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-04-03,2024-04,244,LOT-ONL-2024-M04-SO,4200.0
+SHP-100603,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-04-25,2024-04,272,LOT-ONL-2024-M04-WE,4200.0
+SHP-100604,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-04-09,2024-04,171,LOT-ONL-2024-M04-EA,4200.0
+SHP-100605,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-04-12,2024-04,151,LOT-ONL-2024-M04-AP,4200.0
+SHP-100606,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-04-21,2024-04,730,LOT-LIN-2024-M04-NO,380.0
+SHP-100607,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-04-17,2024-04,666,LOT-LIN-2024-M04-SO,380.0
+SHP-100608,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-04-13,2024-04,780,LOT-LIN-2024-M04-WE,380.0
+SHP-100609,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-04-22,2024-04,511,LOT-LIN-2024-M04-EA,380.0
+SHP-100610,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-04-27,2024-04,462,LOT-LIN-2024-M04-AP,380.0
+SHP-100611,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-04-18,2024-04,46,LOT-MOD-2024-M04-NO,18500.0
+SHP-100612,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-04-11,2024-04,51,LOT-MOD-2024-M04-SO,18500.0
+SHP-100613,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-04-01,2024-04,56,LOT-MOD-2024-M04-WE,18500.0
+SHP-100614,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-04-04,2024-04,32,LOT-MOD-2024-M04-EA,18500.0
+SHP-100615,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-04-09,2024-04,32,LOT-MOD-2024-M04-AP,18500.0
+SHP-100616,LV Switchgear Panel,Switchgear & Distribution,North India,2024-04-06,2024-04,81,LOT-LV -2024-M04-NO,12500.0
+SHP-100617,LV Switchgear Panel,Switchgear & Distribution,South India,2024-04-19,2024-04,67,LOT-LV -2024-M04-SO,12500.0
+SHP-100618,LV Switchgear Panel,Switchgear & Distribution,West India,2024-04-09,2024-04,79,LOT-LV -2024-M04-WE,12500.0
+SHP-100619,LV Switchgear Panel,Switchgear & Distribution,East India,2024-04-02,2024-04,55,LOT-LV -2024-M04-EA,12500.0
+SHP-100620,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-04-04,2024-04,48,LOT-LV -2024-M04-AP,12500.0
+SHP-100621,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-04-20,2024-04,550,LOT-MOL-2024-M04-NO,650.0
+SHP-100622,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-04-14,2024-04,529,LOT-MOL-2024-M04-SO,650.0
+SHP-100623,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-04-12,2024-04,619,LOT-MOL-2024-M04-WE,650.0
+SHP-100624,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-04-24,2024-04,404,LOT-MOL-2024-M04-EA,650.0
+SHP-100625,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-04-26,2024-04,362,LOT-MOL-2024-M04-AP,650.0
+SHP-100626,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-04-11,2024-04,136,LOT-AIR-2024-M04-NO,4100.0
+SHP-100627,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-04-14,2024-04,132,LOT-AIR-2024-M04-SO,4100.0
+SHP-100628,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-04-20,2024-04,158,LOT-AIR-2024-M04-WE,4100.0
+SHP-100629,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-04-17,2024-04,89,LOT-AIR-2024-M04-EA,4100.0
+SHP-100630,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-04-04,2024-04,81,LOT-AIR-2024-M04-AP,4100.0
+SHP-100631,Surge Protection Device (SPD),Protection Devices,North India,2024-04-13,2024-04,631,LOT-SUR-2024-M04-NO,190.0
+SHP-100632,Surge Protection Device (SPD),Protection Devices,South India,2024-04-19,2024-04,623,LOT-SUR-2024-M04-SO,190.0
+SHP-100633,Surge Protection Device (SPD),Protection Devices,West India,2024-04-07,2024-04,662,LOT-SUR-2024-M04-WE,190.0
+SHP-100634,Surge Protection Device (SPD),Protection Devices,East India,2024-04-09,2024-04,425,LOT-SUR-2024-M04-EA,190.0
+SHP-100635,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-04-02,2024-04,344,LOT-SUR-2024-M04-AP,190.0
+SHP-100636,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-04-23,2024-04,226,LOT-POW-2024-M04-NO,1600.0
+SHP-100637,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-04-14,2024-04,219,LOT-POW-2024-M04-SO,1600.0
+SHP-100638,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-04-01,2024-04,236,LOT-POW-2024-M04-WE,1600.0
+SHP-100639,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-04-17,2024-04,152,LOT-POW-2024-M04-EA,1600.0
+SHP-100640,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-04-26,2024-04,135,LOT-POW-2024-M04-AP,1600.0
+SHP-100641,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-05-18,2024-05,306,LOT-ONL-2024-M05-NO,4200.0
+SHP-100642,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-05-22,2024-05,310,LOT-ONL-2024-M05-SO,4200.0
+SHP-100643,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-05-24,2024-05,345,LOT-ONL-2024-M05-WE,4200.0
+SHP-100644,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-05-24,2024-05,225,LOT-ONL-2024-M05-EA,4200.0
+SHP-100645,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-05-24,2024-05,189,LOT-ONL-2024-M05-AP,4200.0
+SHP-100646,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-05-22,2024-05,988,LOT-LIN-2024-M05-NO,380.0
+SHP-100647,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-05-07,2024-05,898,LOT-LIN-2024-M05-SO,380.0
+SHP-100648,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-05-12,2024-05,1036,LOT-LIN-2024-M05-WE,380.0
+SHP-100649,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-05-14,2024-05,676,LOT-LIN-2024-M05-EA,380.0
+SHP-100650,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-05-03,2024-05,562,LOT-LIN-2024-M05-AP,380.0
+SHP-100651,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-05-22,2024-05,59,LOT-MOD-2024-M05-NO,18500.0
+SHP-100652,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-05-11,2024-05,61,LOT-MOD-2024-M05-SO,18500.0
+SHP-100653,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-05-20,2024-05,70,LOT-MOD-2024-M05-WE,18500.0
+SHP-100654,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-05-11,2024-05,46,LOT-MOD-2024-M05-EA,18500.0
+SHP-100655,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-05-22,2024-05,38,LOT-MOD-2024-M05-AP,18500.0
+SHP-100656,LV Switchgear Panel,Switchgear & Distribution,North India,2024-05-28,2024-05,89,LOT-LV -2024-M05-NO,12500.0
+SHP-100657,LV Switchgear Panel,Switchgear & Distribution,South India,2024-05-04,2024-05,87,LOT-LV -2024-M05-SO,12500.0
+SHP-100658,LV Switchgear Panel,Switchgear & Distribution,West India,2024-05-24,2024-05,101,LOT-LV -2024-M05-WE,12500.0
+SHP-100659,LV Switchgear Panel,Switchgear & Distribution,East India,2024-05-10,2024-05,68,LOT-LV -2024-M05-EA,12500.0
+SHP-100660,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-05-17,2024-05,58,LOT-LV -2024-M05-AP,12500.0
+SHP-100661,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-05-10,2024-05,714,LOT-MOL-2024-M05-NO,650.0
+SHP-100662,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-05-22,2024-05,762,LOT-MOL-2024-M05-SO,650.0
+SHP-100663,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-05-14,2024-05,811,LOT-MOL-2024-M05-WE,650.0
+SHP-100664,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-05-11,2024-05,486,LOT-MOL-2024-M05-EA,650.0
+SHP-100665,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-05-13,2024-05,414,LOT-MOL-2024-M05-AP,650.0
+SHP-100666,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-05-23,2024-05,164,LOT-AIR-2024-M05-NO,4100.0
+SHP-100667,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-05-10,2024-05,160,LOT-AIR-2024-M05-SO,4100.0
+SHP-100668,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-05-18,2024-05,179,LOT-AIR-2024-M05-WE,4100.0
+SHP-100669,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-05-05,2024-05,115,LOT-AIR-2024-M05-EA,4100.0
+SHP-100670,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-05-07,2024-05,102,LOT-AIR-2024-M05-AP,4100.0
+SHP-100671,Surge Protection Device (SPD),Protection Devices,North India,2024-05-14,2024-05,720,LOT-SUR-2024-M05-NO,190.0
+SHP-100672,Surge Protection Device (SPD),Protection Devices,South India,2024-05-22,2024-05,783,LOT-SUR-2024-M05-SO,190.0
+SHP-100673,Surge Protection Device (SPD),Protection Devices,West India,2024-05-13,2024-05,769,LOT-SUR-2024-M05-WE,190.0
+SHP-100674,Surge Protection Device (SPD),Protection Devices,East India,2024-05-22,2024-05,534,LOT-SUR-2024-M05-EA,190.0
+SHP-100675,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-05-24,2024-05,458,LOT-SUR-2024-M05-AP,190.0
+SHP-100676,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-05-06,2024-05,311,LOT-POW-2024-M05-NO,1600.0
+SHP-100677,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-05-20,2024-05,255,LOT-POW-2024-M05-SO,1600.0
+SHP-100678,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-05-19,2024-05,306,LOT-POW-2024-M05-WE,1600.0
+SHP-100679,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-05-10,2024-05,216,LOT-POW-2024-M05-EA,1600.0
+SHP-100680,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-05-13,2024-05,186,LOT-POW-2024-M05-AP,1600.0
+SHP-100681,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-06-18,2024-06,355,LOT-ONL-2024-M06-NO,4200.0
+SHP-100682,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-06-27,2024-06,308,LOT-ONL-2024-M06-SO,4200.0
+SHP-100683,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-06-01,2024-06,344,LOT-ONL-2024-M06-WE,4200.0
+SHP-100684,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-06-10,2024-06,241,LOT-ONL-2024-M06-EA,4200.0
+SHP-100685,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-06-10,2024-06,220,LOT-ONL-2024-M06-AP,4200.0
+SHP-100686,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-06-07,2024-06,938,LOT-LIN-2024-M06-NO,380.0
+SHP-100687,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-06-14,2024-06,900,LOT-LIN-2024-M06-SO,380.0
+SHP-100688,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-06-26,2024-06,970,LOT-LIN-2024-M06-WE,380.0
+SHP-100689,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-06-19,2024-06,677,LOT-LIN-2024-M06-EA,380.0
+SHP-100690,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-06-20,2024-06,534,LOT-LIN-2024-M06-AP,380.0
+SHP-100691,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-06-21,2024-06,62,LOT-MOD-2024-M06-NO,18500.0
+SHP-100692,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-06-11,2024-06,60,LOT-MOD-2024-M06-SO,18500.0
+SHP-100693,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-06-15,2024-06,69,LOT-MOD-2024-M06-WE,18500.0
+SHP-100694,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-06-15,2024-06,42,LOT-MOD-2024-M06-EA,18500.0
+SHP-100695,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-06-15,2024-06,36,LOT-MOD-2024-M06-AP,18500.0
+SHP-100696,LV Switchgear Panel,Switchgear & Distribution,North India,2024-06-22,2024-06,98,LOT-LV -2024-M06-NO,12500.0
+SHP-100697,LV Switchgear Panel,Switchgear & Distribution,South India,2024-06-07,2024-06,88,LOT-LV -2024-M06-SO,12500.0
+SHP-100698,LV Switchgear Panel,Switchgear & Distribution,West India,2024-06-17,2024-06,106,LOT-LV -2024-M06-WE,12500.0
+SHP-100699,LV Switchgear Panel,Switchgear & Distribution,East India,2024-06-16,2024-06,62,LOT-LV -2024-M06-EA,12500.0
+SHP-100700,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-06-26,2024-06,58,LOT-LV -2024-M06-AP,12500.0
+SHP-100701,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-06-26,2024-06,741,LOT-MOL-2024-M06-NO,650.0
+SHP-100702,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-06-24,2024-06,648,LOT-MOL-2024-M06-SO,650.0
+SHP-100703,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-06-06,2024-06,778,LOT-MOL-2024-M06-WE,650.0
+SHP-100704,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-06-22,2024-06,479,LOT-MOL-2024-M06-EA,650.0
+SHP-100705,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-06-03,2024-06,413,LOT-MOL-2024-M06-AP,650.0
+SHP-100706,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-06-10,2024-06,191,LOT-AIR-2024-M06-NO,4100.0
+SHP-100707,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-06-17,2024-06,163,LOT-AIR-2024-M06-SO,4100.0
+SHP-100708,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-06-22,2024-06,202,LOT-AIR-2024-M06-WE,4100.0
+SHP-100709,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-06-21,2024-06,117,LOT-AIR-2024-M06-EA,4100.0
+SHP-100710,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-06-20,2024-06,110,LOT-AIR-2024-M06-AP,4100.0
+SHP-100711,Surge Protection Device (SPD),Protection Devices,North India,2024-06-11,2024-06,804,LOT-SUR-2024-M06-NO,190.0
+SHP-100712,Surge Protection Device (SPD),Protection Devices,South India,2024-06-03,2024-06,748,LOT-SUR-2024-M06-SO,190.0
+SHP-100713,Surge Protection Device (SPD),Protection Devices,West India,2024-06-27,2024-06,831,LOT-SUR-2024-M06-WE,190.0
+SHP-100714,Surge Protection Device (SPD),Protection Devices,East India,2024-06-25,2024-06,526,LOT-SUR-2024-M06-EA,190.0
+SHP-100715,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-06-08,2024-06,455,LOT-SUR-2024-M06-AP,190.0
+SHP-100716,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-06-22,2024-06,310,LOT-POW-2024-M06-NO,1600.0
+SHP-100717,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-06-10,2024-06,292,LOT-POW-2024-M06-SO,1600.0
+SHP-100718,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-06-08,2024-06,339,LOT-POW-2024-M06-WE,1600.0
+SHP-100719,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-06-26,2024-06,187,LOT-POW-2024-M06-EA,1600.0
+SHP-100720,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-06-07,2024-06,182,LOT-POW-2024-M06-AP,1600.0
+SHP-100721,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-07-05,2024-07,364,LOT-CAP-2024-Q3-NO,4200.0
+SHP-100722,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-07-01,2024-07,305,LOT-CAP-2024-Q3-SO,4200.0
+SHP-100723,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-07-02,2024-07,339,LOT-CAP-2024-Q3-WE,4200.0
+SHP-100724,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-07-08,2024-07,245,LOT-CAP-2024-Q3-EA,4200.0
+SHP-100725,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-07-16,2024-07,208,LOT-CAP-2024-Q3-AP,4200.0
+SHP-100726,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-07-20,2024-07,991,LOT-LIN-2024-M07-NO,380.0
+SHP-100727,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-07-28,2024-07,836,LOT-LIN-2024-M07-SO,380.0
+SHP-100728,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-07-25,2024-07,1069,LOT-LIN-2024-M07-WE,380.0
+SHP-100729,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-07-03,2024-07,615,LOT-LIN-2024-M07-EA,380.0
+SHP-100730,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-07-15,2024-07,534,LOT-LIN-2024-M07-AP,380.0
+SHP-100731,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-07-14,2024-07,60,LOT-MOD-2024-M07-NO,18500.0
+SHP-100732,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-07-21,2024-07,65,LOT-MOD-2024-M07-SO,18500.0
+SHP-100733,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-07-19,2024-07,72,LOT-MOD-2024-M07-WE,18500.0
+SHP-100734,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-07-07,2024-07,45,LOT-MOD-2024-M07-EA,18500.0
+SHP-100735,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-07-23,2024-07,38,LOT-MOD-2024-M07-AP,18500.0
+SHP-100736,LV Switchgear Panel,Switchgear & Distribution,North India,2024-07-23,2024-07,103,LOT-LV -2024-M07-NO,12500.0
+SHP-100737,LV Switchgear Panel,Switchgear & Distribution,South India,2024-07-13,2024-07,90,LOT-LV -2024-M07-SO,12500.0
+SHP-100738,LV Switchgear Panel,Switchgear & Distribution,West India,2024-07-16,2024-07,111,LOT-LV -2024-M07-WE,12500.0
+SHP-100739,LV Switchgear Panel,Switchgear & Distribution,East India,2024-07-13,2024-07,66,LOT-LV -2024-M07-EA,12500.0
+SHP-100740,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-07-08,2024-07,57,LOT-LV -2024-M07-AP,12500.0
+SHP-100741,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-07-05,2024-07,736,LOT-MOL-2024-M07-NO,650.0
+SHP-100742,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-07-21,2024-07,683,LOT-MOL-2024-M07-SO,650.0
+SHP-100743,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-07-23,2024-07,841,LOT-MOL-2024-M07-WE,650.0
+SHP-100744,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-07-01,2024-07,515,LOT-MOL-2024-M07-EA,650.0
+SHP-100745,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-07-25,2024-07,429,LOT-MOL-2024-M07-AP,650.0
+SHP-100746,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-07-28,2024-07,189,LOT-AIR-2024-M07-NO,4100.0
+SHP-100747,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-07-25,2024-07,166,LOT-AIR-2024-M07-SO,4100.0
+SHP-100748,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-07-04,2024-07,194,LOT-AIR-2024-M07-WE,4100.0
+SHP-100749,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-07-25,2024-07,132,LOT-AIR-2024-M07-EA,4100.0
+SHP-100750,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-07-14,2024-07,110,LOT-AIR-2024-M07-AP,4100.0
+SHP-100751,Surge Protection Device (SPD),Protection Devices,North India,2024-07-08,2024-07,720,LOT-SUR-2024-M07-NO,190.0
+SHP-100752,Surge Protection Device (SPD),Protection Devices,South India,2024-07-06,2024-07,797,LOT-SUR-2024-M07-SO,190.0
+SHP-100753,Surge Protection Device (SPD),Protection Devices,West India,2024-07-26,2024-07,859,LOT-SUR-2024-M07-WE,190.0
+SHP-100754,Surge Protection Device (SPD),Protection Devices,East India,2024-07-23,2024-07,522,LOT-SUR-2024-M07-EA,190.0
+SHP-100755,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-07-17,2024-07,440,LOT-SUR-2024-M07-AP,190.0
+SHP-100756,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-07-15,2024-07,305,LOT-POW-2024-M07-NO,1600.0
+SHP-100757,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-07-02,2024-07,283,LOT-POW-2024-M07-SO,1600.0
+SHP-100758,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-07-18,2024-07,317,LOT-POW-2024-M07-WE,1600.0
+SHP-100759,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-07-08,2024-07,215,LOT-POW-2024-M07-EA,1600.0
+SHP-100760,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-07-28,2024-07,185,LOT-POW-2024-M07-AP,1600.0
+SHP-100761,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-08-04,2024-08,255,LOT-CAP-2024-Q3-NO,4200.0
+SHP-100762,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-08-15,2024-08,251,LOT-CAP-2024-Q3-SO,4200.0
+SHP-100763,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-08-05,2024-08,282,LOT-CAP-2024-Q3-WE,4200.0
+SHP-100764,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-08-26,2024-08,197,LOT-CAP-2024-Q3-EA,4200.0
+SHP-100765,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-08-15,2024-08,151,LOT-CAP-2024-Q3-AP,4200.0
+SHP-100766,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-08-22,2024-08,761,LOT-LIN-2024-M08-NO,380.0
+SHP-100767,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-08-17,2024-08,752,LOT-LIN-2024-M08-SO,380.0
+SHP-100768,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-08-18,2024-08,872,LOT-LIN-2024-M08-WE,380.0
+SHP-100769,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-08-20,2024-08,508,LOT-LIN-2024-M08-EA,380.0
+SHP-100770,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-08-11,2024-08,483,LOT-LIN-2024-M08-AP,380.0
+SHP-100771,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-08-25,2024-08,48,LOT-MOD-2024-M08-NO,18500.0
+SHP-100772,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-08-15,2024-08,52,LOT-MOD-2024-M08-SO,18500.0
+SHP-100773,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-08-20,2024-08,52,LOT-MOD-2024-M08-WE,18500.0
+SHP-100774,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-08-27,2024-08,35,LOT-MOD-2024-M08-EA,18500.0
+SHP-100775,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-08-24,2024-08,33,LOT-MOD-2024-M08-AP,18500.0
+SHP-100776,LV Switchgear Panel,Switchgear & Distribution,North India,2024-08-17,2024-08,72,LOT-LV -2024-M08-NO,12500.0
+SHP-100777,LV Switchgear Panel,Switchgear & Distribution,South India,2024-08-14,2024-08,70,LOT-LV -2024-M08-SO,12500.0
+SHP-100778,LV Switchgear Panel,Switchgear & Distribution,West India,2024-08-27,2024-08,87,LOT-LV -2024-M08-WE,12500.0
+SHP-100779,LV Switchgear Panel,Switchgear & Distribution,East India,2024-08-18,2024-08,56,LOT-LV -2024-M08-EA,12500.0
+SHP-100780,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-08-15,2024-08,48,LOT-LV -2024-M08-AP,12500.0
+SHP-100781,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-08-06,2024-08,616,LOT-MOL-2024-M08-NO,650.0
+SHP-100782,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-08-24,2024-08,574,LOT-MOL-2024-M08-SO,650.0
+SHP-100783,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-08-28,2024-08,619,LOT-MOL-2024-M08-WE,650.0
+SHP-100784,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-08-16,2024-08,403,LOT-MOL-2024-M08-EA,650.0
+SHP-100785,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-08-15,2024-08,342,LOT-MOL-2024-M08-AP,650.0
+SHP-100786,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-08-09,2024-08,152,LOT-AIR-2024-M08-NO,4100.0
+SHP-100787,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-08-25,2024-08,138,LOT-AIR-2024-M08-SO,4100.0
+SHP-100788,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-08-08,2024-08,152,LOT-AIR-2024-M08-WE,4100.0
+SHP-100789,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-08-27,2024-08,98,LOT-AIR-2024-M08-EA,4100.0
+SHP-100790,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-08-21,2024-08,93,LOT-AIR-2024-M08-AP,4100.0
+SHP-100791,Surge Protection Device (SPD),Protection Devices,North India,2024-08-09,2024-08,583,LOT-SUR-2024-M08-NO,190.0
+SHP-100792,Surge Protection Device (SPD),Protection Devices,South India,2024-08-25,2024-08,604,LOT-SUR-2024-M08-SO,190.0
+SHP-100793,Surge Protection Device (SPD),Protection Devices,West India,2024-08-25,2024-08,677,LOT-SUR-2024-M08-WE,190.0
+SHP-100794,Surge Protection Device (SPD),Protection Devices,East India,2024-08-17,2024-08,441,LOT-SUR-2024-M08-EA,190.0
+SHP-100795,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-08-16,2024-08,346,LOT-SUR-2024-M08-AP,190.0
+SHP-100796,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-08-21,2024-08,248,LOT-POW-2024-M08-NO,1600.0
+SHP-100797,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-08-08,2024-08,240,LOT-POW-2024-M08-SO,1600.0
+SHP-100798,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-08-09,2024-08,256,LOT-POW-2024-M08-WE,1600.0
+SHP-100799,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-08-15,2024-08,168,LOT-POW-2024-M08-EA,1600.0
+SHP-100800,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-08-03,2024-08,152,LOT-POW-2024-M08-AP,1600.0
+SHP-100801,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-09-23,2024-09,283,LOT-CAP-2024-Q3-NO,4200.0
+SHP-100802,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-09-10,2024-09,245,LOT-CAP-2024-Q3-SO,4200.0
+SHP-100803,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-09-08,2024-09,301,LOT-CAP-2024-Q3-WE,4200.0
+SHP-100804,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-09-09,2024-09,194,LOT-CAP-2024-Q3-EA,4200.0
+SHP-100805,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-09-11,2024-09,164,LOT-CAP-2024-Q3-AP,4200.0
+SHP-100806,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-09-11,2024-09,787,LOT-LIN-2024-M09-NO,380.0
+SHP-100807,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-09-18,2024-09,779,LOT-LIN-2024-M09-SO,380.0
+SHP-100808,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-09-03,2024-09,884,LOT-LIN-2024-M09-WE,380.0
+SHP-100809,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-09-05,2024-09,521,LOT-LIN-2024-M09-EA,380.0
+SHP-100810,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-09-05,2024-09,428,LOT-LIN-2024-M09-AP,380.0
+SHP-100811,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-09-08,2024-09,56,LOT-MOD-2024-M09-NO,18500.0
+SHP-100812,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-09-13,2024-09,52,LOT-MOD-2024-M09-SO,18500.0
+SHP-100813,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-09-23,2024-09,52,LOT-MOD-2024-M09-WE,18500.0
+SHP-100814,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-09-05,2024-09,38,LOT-MOD-2024-M09-EA,18500.0
+SHP-100815,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-09-23,2024-09,33,LOT-MOD-2024-M09-AP,18500.0
+SHP-100816,LV Switchgear Panel,Switchgear & Distribution,North India,2024-09-07,2024-09,78,LOT-LV -2024-M09-NO,12500.0
+SHP-100817,LV Switchgear Panel,Switchgear & Distribution,South India,2024-09-03,2024-09,76,LOT-LV -2024-M09-SO,12500.0
+SHP-100818,LV Switchgear Panel,Switchgear & Distribution,West India,2024-09-14,2024-09,83,LOT-LV -2024-M09-WE,12500.0
+SHP-100819,LV Switchgear Panel,Switchgear & Distribution,East India,2024-09-14,2024-09,50,LOT-LV -2024-M09-EA,12500.0
+SHP-100820,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-09-11,2024-09,46,LOT-LV -2024-M09-AP,12500.0
+SHP-100821,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-09-18,2024-09,631,LOT-MOL-2024-M09-NO,650.0
+SHP-100822,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-09-15,2024-09,522,LOT-MOL-2024-M09-SO,650.0
+SHP-100823,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-09-14,2024-09,632,LOT-MOL-2024-M09-WE,650.0
+SHP-100824,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-09-02,2024-09,409,LOT-MOL-2024-M09-EA,650.0
+SHP-100825,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-09-07,2024-09,367,LOT-MOL-2024-M09-AP,650.0
+SHP-100826,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-09-27,2024-09,154,LOT-AIR-2024-M09-NO,4100.0
+SHP-100827,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-09-14,2024-09,133,LOT-AIR-2024-M09-SO,4100.0
+SHP-100828,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-09-13,2024-09,151,LOT-AIR-2024-M09-WE,4100.0
+SHP-100829,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-09-25,2024-09,103,LOT-AIR-2024-M09-EA,4100.0
+SHP-100830,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-09-19,2024-09,86,LOT-AIR-2024-M09-AP,4100.0
+SHP-100831,Surge Protection Device (SPD),Protection Devices,North India,2024-09-23,2024-09,594,LOT-SUR-2024-M09-NO,190.0
+SHP-100832,Surge Protection Device (SPD),Protection Devices,South India,2024-09-01,2024-09,593,LOT-SUR-2024-M09-SO,190.0
+SHP-100833,Surge Protection Device (SPD),Protection Devices,West India,2024-09-28,2024-09,636,LOT-SUR-2024-M09-WE,190.0
+SHP-100834,Surge Protection Device (SPD),Protection Devices,East India,2024-09-25,2024-09,410,LOT-SUR-2024-M09-EA,190.0
+SHP-100835,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-09-19,2024-09,380,LOT-SUR-2024-M09-AP,190.0
+SHP-100836,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-09-13,2024-09,231,LOT-POW-2024-M09-NO,1600.0
+SHP-100837,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-09-16,2024-09,241,LOT-POW-2024-M09-SO,1600.0
+SHP-100838,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-09-01,2024-09,248,LOT-POW-2024-M09-WE,1600.0
+SHP-100839,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-09-12,2024-09,165,LOT-POW-2024-M09-EA,1600.0
+SHP-100840,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-09-10,2024-09,146,LOT-POW-2024-M09-AP,1600.0
+SHP-100841,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-10-25,2024-10,251,LOT-CAP-2024-Q3-NO,4200.0
+SHP-100842,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-10-13,2024-10,270,LOT-CAP-2024-Q3-SO,4200.0
+SHP-100843,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-10-28,2024-10,281,LOT-CAP-2024-Q3-WE,4200.0
+SHP-100844,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-10-27,2024-10,207,LOT-CAP-2024-Q3-EA,4200.0
+SHP-100845,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-10-14,2024-10,157,LOT-CAP-2024-Q3-AP,4200.0
+SHP-100846,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-10-18,2024-10,748,LOT-LIN-2024-M10-NO,380.0
+SHP-100847,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-10-24,2024-10,673,LOT-LIN-2024-M10-SO,380.0
+SHP-100848,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-10-24,2024-10,899,LOT-LIN-2024-M10-WE,380.0
+SHP-100849,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-10-18,2024-10,528,LOT-LIN-2024-M10-EA,380.0
+SHP-100850,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-10-26,2024-10,470,LOT-LIN-2024-M10-AP,380.0
+SHP-100851,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-10-20,2024-10,48,LOT-MOD-2024-M10-NO,18500.0
+SHP-100852,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-10-08,2024-10,52,LOT-MOD-2024-M10-SO,18500.0
+SHP-100853,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-10-16,2024-10,54,LOT-MOD-2024-M10-WE,18500.0
+SHP-100854,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-10-08,2024-10,39,LOT-MOD-2024-M10-EA,18500.0
+SHP-100855,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-10-09,2024-10,30,LOT-MOD-2024-M10-AP,18500.0
+SHP-100856,LV Switchgear Panel,Switchgear & Distribution,North India,2024-10-14,2024-10,74,LOT-LV -2024-M10-NO,12500.0
+SHP-100857,LV Switchgear Panel,Switchgear & Distribution,South India,2024-10-16,2024-10,69,LOT-LV -2024-M10-SO,12500.0
+SHP-100858,LV Switchgear Panel,Switchgear & Distribution,West India,2024-10-01,2024-10,85,LOT-LV -2024-M10-WE,12500.0
+SHP-100859,LV Switchgear Panel,Switchgear & Distribution,East India,2024-10-13,2024-10,55,LOT-LV -2024-M10-EA,12500.0
+SHP-100860,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-10-11,2024-10,44,LOT-LV -2024-M10-AP,12500.0
+SHP-100861,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-10-22,2024-10,632,LOT-MOL-2024-M10-NO,650.0
+SHP-100862,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-10-22,2024-10,571,LOT-MOL-2024-M10-SO,650.0
+SHP-100863,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-10-26,2024-10,658,LOT-MOL-2024-M10-WE,650.0
+SHP-100864,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-10-13,2024-10,414,LOT-MOL-2024-M10-EA,650.0
+SHP-100865,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-10-24,2024-10,360,LOT-MOL-2024-M10-AP,650.0
+SHP-100866,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-10-06,2024-10,145,LOT-AIR-2024-M10-NO,4100.0
+SHP-100867,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-10-27,2024-10,129,LOT-AIR-2024-M10-SO,4100.0
+SHP-100868,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-10-15,2024-10,147,LOT-AIR-2024-M10-WE,4100.0
+SHP-100869,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-10-05,2024-10,106,LOT-AIR-2024-M10-EA,4100.0
+SHP-100870,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-10-20,2024-10,94,LOT-AIR-2024-M10-AP,4100.0
+SHP-100871,Surge Protection Device (SPD),Protection Devices,North India,2024-10-18,2024-10,614,LOT-SUR-2024-M10-NO,190.0
+SHP-100872,Surge Protection Device (SPD),Protection Devices,South India,2024-10-01,2024-10,577,LOT-SUR-2024-M10-SO,190.0
+SHP-100873,Surge Protection Device (SPD),Protection Devices,West India,2024-10-13,2024-10,701,LOT-SUR-2024-M10-WE,190.0
+SHP-100874,Surge Protection Device (SPD),Protection Devices,East India,2024-10-19,2024-10,430,LOT-SUR-2024-M10-EA,190.0
+SHP-100875,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-10-19,2024-10,350,LOT-SUR-2024-M10-AP,190.0
+SHP-100876,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-10-22,2024-10,221,LOT-POW-2024-M10-NO,1600.0
+SHP-100877,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-10-01,2024-10,234,LOT-POW-2024-M10-SO,1600.0
+SHP-100878,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-10-03,2024-10,263,LOT-POW-2024-M10-WE,1600.0
+SHP-100879,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-10-21,2024-10,150,LOT-POW-2024-M10-EA,1600.0
+SHP-100880,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-10-14,2024-10,136,LOT-POW-2024-M10-AP,1600.0
+SHP-100881,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-11-05,2024-11,316,LOT-CAP-2024-Q3-NO,4200.0
+SHP-100882,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-11-28,2024-11,327,LOT-CAP-2024-Q3-SO,4200.0
+SHP-100883,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-11-15,2024-11,330,LOT-CAP-2024-Q3-WE,4200.0
+SHP-100884,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-11-06,2024-11,214,LOT-CAP-2024-Q3-EA,4200.0
+SHP-100885,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-11-02,2024-11,212,LOT-CAP-2024-Q3-AP,4200.0
+SHP-100886,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-11-09,2024-11,864,LOT-LIN-2024-M11-NO,380.0
+SHP-100887,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-11-13,2024-11,901,LOT-LIN-2024-M11-SO,380.0
+SHP-100888,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-11-11,2024-11,950,LOT-LIN-2024-M11-WE,380.0
+SHP-100889,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-11-07,2024-11,592,LOT-LIN-2024-M11-EA,380.0
+SHP-100890,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-11-15,2024-11,532,LOT-LIN-2024-M11-AP,380.0
+SHP-100891,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-11-11,2024-11,65,LOT-MOD-2024-M11-NO,18500.0
+SHP-100892,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-11-11,2024-11,64,LOT-MOD-2024-M11-SO,18500.0
+SHP-100893,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-11-25,2024-11,72,LOT-MOD-2024-M11-WE,18500.0
+SHP-100894,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-11-13,2024-11,43,LOT-MOD-2024-M11-EA,18500.0
+SHP-100895,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-11-09,2024-11,39,LOT-MOD-2024-M11-AP,18500.0
+SHP-100896,LV Switchgear Panel,Switchgear & Distribution,North India,2024-11-25,2024-11,89,LOT-LV -2024-M11-NO,12500.0
+SHP-100897,LV Switchgear Panel,Switchgear & Distribution,South India,2024-11-27,2024-11,87,LOT-LV -2024-M11-SO,12500.0
+SHP-100898,LV Switchgear Panel,Switchgear & Distribution,West India,2024-11-14,2024-11,110,LOT-LV -2024-M11-WE,12500.0
+SHP-100899,LV Switchgear Panel,Switchgear & Distribution,East India,2024-11-09,2024-11,60,LOT-LV -2024-M11-EA,12500.0
+SHP-100900,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-11-27,2024-11,53,LOT-LV -2024-M11-AP,12500.0
+SHP-100901,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-11-03,2024-11,689,LOT-MOL-2024-M11-NO,650.0
+SHP-100902,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-11-16,2024-11,637,LOT-MOL-2024-M11-SO,650.0
+SHP-100903,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-11-01,2024-11,745,LOT-MOL-2024-M11-WE,650.0
+SHP-100904,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-11-24,2024-11,513,LOT-MOL-2024-M11-EA,650.0
+SHP-100905,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-11-18,2024-11,436,LOT-MOL-2024-M11-AP,650.0
+SHP-100906,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-11-02,2024-11,186,LOT-AIR-2024-M11-NO,4100.0
+SHP-100907,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-11-12,2024-11,175,LOT-AIR-2024-M11-SO,4100.0
+SHP-100908,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-11-08,2024-11,183,LOT-AIR-2024-M11-WE,4100.0
+SHP-100909,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-11-21,2024-11,115,LOT-AIR-2024-M11-EA,4100.0
+SHP-100910,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-11-03,2024-11,103,LOT-AIR-2024-M11-AP,4100.0
+SHP-100911,Surge Protection Device (SPD),Protection Devices,North India,2024-11-25,2024-11,771,LOT-SUR-2024-M11-NO,190.0
+SHP-100912,Surge Protection Device (SPD),Protection Devices,South India,2024-11-21,2024-11,695,LOT-SUR-2024-M11-SO,190.0
+SHP-100913,Surge Protection Device (SPD),Protection Devices,West India,2024-11-02,2024-11,843,LOT-SUR-2024-M11-WE,190.0
+SHP-100914,Surge Protection Device (SPD),Protection Devices,East India,2024-11-25,2024-11,519,LOT-SUR-2024-M11-EA,190.0
+SHP-100915,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-11-01,2024-11,466,LOT-SUR-2024-M11-AP,190.0
+SHP-100916,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-11-08,2024-11,281,LOT-POW-2024-M11-NO,1600.0
+SHP-100917,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-11-07,2024-11,262,LOT-POW-2024-M11-SO,1600.0
+SHP-100918,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-11-27,2024-11,334,LOT-POW-2024-M11-WE,1600.0
+SHP-100919,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-11-01,2024-11,207,LOT-POW-2024-M11-EA,1600.0
+SHP-100920,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-11-20,2024-11,162,LOT-POW-2024-M11-AP,1600.0
+SHP-100921,Online UPS 10kVA,Uninterruptible Power Supply,North India,2024-12-05,2024-12,355,LOT-CAP-2024-Q3-NO,4200.0
+SHP-100922,Online UPS 10kVA,Uninterruptible Power Supply,South India,2024-12-08,2024-12,318,LOT-CAP-2024-Q3-SO,4200.0
+SHP-100923,Online UPS 10kVA,Uninterruptible Power Supply,West India,2024-12-05,2024-12,388,LOT-CAP-2024-Q3-WE,4200.0
+SHP-100924,Online UPS 10kVA,Uninterruptible Power Supply,East India,2024-12-16,2024-12,244,LOT-CAP-2024-Q3-EA,4200.0
+SHP-100925,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2024-12-22,2024-12,200,LOT-CAP-2024-Q3-AP,4200.0
+SHP-100926,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2024-12-04,2024-12,843,LOT-LIN-2024-M12-NO,380.0
+SHP-100927,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2024-12-19,2024-12,845,LOT-LIN-2024-M12-SO,380.0
+SHP-100928,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2024-12-07,2024-12,1009,LOT-LIN-2024-M12-WE,380.0
+SHP-100929,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2024-12-15,2024-12,656,LOT-LIN-2024-M12-EA,380.0
+SHP-100930,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2024-12-23,2024-12,537,LOT-LIN-2024-M12-AP,380.0
+SHP-100931,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2024-12-09,2024-12,59,LOT-MOD-2024-M12-NO,18500.0
+SHP-100932,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2024-12-25,2024-12,64,LOT-MOD-2024-M12-SO,18500.0
+SHP-100933,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2024-12-12,2024-12,75,LOT-MOD-2024-M12-WE,18500.0
+SHP-100934,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2024-12-06,2024-12,44,LOT-MOD-2024-M12-EA,18500.0
+SHP-100935,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2024-12-20,2024-12,36,LOT-MOD-2024-M12-AP,18500.0
+SHP-100936,LV Switchgear Panel,Switchgear & Distribution,North India,2024-12-20,2024-12,91,LOT-LV -2024-M12-NO,12500.0
+SHP-100937,LV Switchgear Panel,Switchgear & Distribution,South India,2024-12-24,2024-12,83,LOT-LV -2024-M12-SO,12500.0
+SHP-100938,LV Switchgear Panel,Switchgear & Distribution,West India,2024-12-23,2024-12,111,LOT-LV -2024-M12-WE,12500.0
+SHP-100939,LV Switchgear Panel,Switchgear & Distribution,East India,2024-12-04,2024-12,61,LOT-LV -2024-M12-EA,12500.0
+SHP-100940,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2024-12-25,2024-12,58,LOT-LV -2024-M12-AP,12500.0
+SHP-100941,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2024-12-27,2024-12,701,LOT-MOL-2024-M12-NO,650.0
+SHP-100942,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2024-12-06,2024-12,706,LOT-MOL-2024-M12-SO,650.0
+SHP-100943,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2024-12-10,2024-12,816,LOT-MOL-2024-M12-WE,650.0
+SHP-100944,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2024-12-04,2024-12,538,LOT-MOL-2024-M12-EA,650.0
+SHP-100945,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2024-12-19,2024-12,421,LOT-MOL-2024-M12-AP,650.0
+SHP-100946,Air Circuit Breaker (ACB),Circuit Protection,North India,2024-12-01,2024-12,159,LOT-AIR-2024-M12-NO,4100.0
+SHP-100947,Air Circuit Breaker (ACB),Circuit Protection,South India,2024-12-10,2024-12,156,LOT-AIR-2024-M12-SO,4100.0
+SHP-100948,Air Circuit Breaker (ACB),Circuit Protection,West India,2024-12-19,2024-12,203,LOT-AIR-2024-M12-WE,4100.0
+SHP-100949,Air Circuit Breaker (ACB),Circuit Protection,East India,2024-12-22,2024-12,129,LOT-AIR-2024-M12-EA,4100.0
+SHP-100950,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2024-12-13,2024-12,108,LOT-AIR-2024-M12-AP,4100.0
+SHP-100951,Surge Protection Device (SPD),Protection Devices,North India,2024-12-13,2024-12,776,LOT-SUR-2024-M12-NO,190.0
+SHP-100952,Surge Protection Device (SPD),Protection Devices,South India,2024-12-23,2024-12,751,LOT-SUR-2024-M12-SO,190.0
+SHP-100953,Surge Protection Device (SPD),Protection Devices,West India,2024-12-07,2024-12,781,LOT-SUR-2024-M12-WE,190.0
+SHP-100954,Surge Protection Device (SPD),Protection Devices,East India,2024-12-03,2024-12,570,LOT-SUR-2024-M12-EA,190.0
+SHP-100955,Surge Protection Device (SPD),Protection Devices,APAC Export,2024-12-19,2024-12,457,LOT-SUR-2024-M12-AP,190.0
+SHP-100956,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2024-12-23,2024-12,280,LOT-POW-2024-M12-NO,1600.0
+SHP-100957,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2024-12-27,2024-12,274,LOT-POW-2024-M12-SO,1600.0
+SHP-100958,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2024-12-21,2024-12,285,LOT-POW-2024-M12-WE,1600.0
+SHP-100959,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2024-12-08,2024-12,187,LOT-POW-2024-M12-EA,1600.0
+SHP-100960,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2024-12-04,2024-12,181,LOT-POW-2024-M12-AP,1600.0
+SHP-100961,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-01-23,2025-01,220,LOT-ONL-2025-M01-NO,4200.0
+SHP-100962,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-01-25,2025-01,231,LOT-ONL-2025-M01-SO,4200.0
+SHP-100963,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-01-10,2025-01,246,LOT-ONL-2025-M01-WE,4200.0
+SHP-100964,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-01-28,2025-01,162,LOT-ONL-2025-M01-EA,4200.0
+SHP-100965,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-01-22,2025-01,139,LOT-ONL-2025-M01-AP,4200.0
+SHP-100966,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-01-20,2025-01,639,LOT-LIN-2025-M01-NO,380.0
+SHP-100967,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-01-26,2025-01,652,LOT-LIN-2025-M01-SO,380.0
+SHP-100968,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-01-04,2025-01,687,LOT-LIN-2025-M01-WE,380.0
+SHP-100969,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-01-26,2025-01,462,LOT-LIN-2025-M01-EA,380.0
+SHP-100970,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-01-19,2025-01,397,LOT-LIN-2025-M01-AP,380.0
+SHP-100971,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-01-26,2025-01,46,LOT-MOD-2025-M01-NO,18500.0
+SHP-100972,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-01-02,2025-01,46,LOT-MOD-2025-M01-SO,18500.0
+SHP-100973,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-01-12,2025-01,51,LOT-MOD-2025-M01-WE,18500.0
+SHP-100974,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-01-18,2025-01,29,LOT-MOD-2025-M01-EA,18500.0
+SHP-100975,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-01-14,2025-01,25,LOT-MOD-2025-M01-AP,18500.0
+SHP-100976,LV Switchgear Panel,Switchgear & Distribution,North India,2025-01-22,2025-01,65,LOT-LV -2025-M01-NO,12500.0
+SHP-100977,LV Switchgear Panel,Switchgear & Distribution,South India,2025-01-12,2025-01,66,LOT-LV -2025-M01-SO,12500.0
+SHP-100978,LV Switchgear Panel,Switchgear & Distribution,West India,2025-01-03,2025-01,67,LOT-LV -2025-M01-WE,12500.0
+SHP-100979,LV Switchgear Panel,Switchgear & Distribution,East India,2025-01-17,2025-01,47,LOT-LV -2025-M01-EA,12500.0
+SHP-100980,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-01-21,2025-01,42,LOT-LV -2025-M01-AP,12500.0
+SHP-100981,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-01-11,2025-01,505,LOT-MOL-2025-M01-NO,650.0
+SHP-100982,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-01-01,2025-01,522,LOT-MOL-2025-M01-SO,650.0
+SHP-100983,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-01-28,2025-01,526,LOT-MOL-2025-M01-WE,650.0
+SHP-100984,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-01-14,2025-01,334,LOT-MOL-2025-M01-EA,650.0
+SHP-100985,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-01-27,2025-01,329,LOT-MOL-2025-M01-AP,650.0
+SHP-100986,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-01-16,2025-01,124,LOT-AIR-2025-M01-NO,4100.0
+SHP-100987,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-01-04,2025-01,123,LOT-AIR-2025-M01-SO,4100.0
+SHP-100988,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-01-14,2025-01,133,LOT-AIR-2025-M01-WE,4100.0
+SHP-100989,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-01-12,2025-01,82,LOT-AIR-2025-M01-EA,4100.0
+SHP-100990,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-01-21,2025-01,80,LOT-AIR-2025-M01-AP,4100.0
+SHP-100991,Surge Protection Device (SPD),Protection Devices,North India,2025-01-27,2025-01,572,LOT-SUR-2025-M01-NO,190.0
+SHP-100992,Surge Protection Device (SPD),Protection Devices,South India,2025-01-15,2025-01,537,LOT-SUR-2025-M01-SO,190.0
+SHP-100993,Surge Protection Device (SPD),Protection Devices,West India,2025-01-23,2025-01,566,LOT-SUR-2025-M01-WE,190.0
+SHP-100994,Surge Protection Device (SPD),Protection Devices,East India,2025-01-05,2025-01,384,LOT-SUR-2025-M01-EA,190.0
+SHP-100995,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-01-14,2025-01,322,LOT-SUR-2025-M01-AP,190.0
+SHP-100996,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-01-06,2025-01,188,LOT-POW-2025-M01-NO,1600.0
+SHP-100997,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-01-24,2025-01,209,LOT-POW-2025-M01-SO,1600.0
+SHP-100998,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-01-17,2025-01,207,LOT-POW-2025-M01-WE,1600.0
+SHP-100999,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-01-21,2025-01,153,LOT-POW-2025-M01-EA,1600.0
+SHP-101000,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-01-09,2025-01,122,LOT-POW-2025-M01-AP,1600.0
+SHP-101001,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-02-20,2025-02,225,LOT-ONL-2025-M02-NO,4200.0
+SHP-101002,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-02-26,2025-02,230,LOT-ONL-2025-M02-SO,4200.0
+SHP-101003,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-02-18,2025-02,277,LOT-ONL-2025-M02-WE,4200.0
+SHP-101004,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-02-25,2025-02,173,LOT-ONL-2025-M02-EA,4200.0
+SHP-101005,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-02-16,2025-02,153,LOT-ONL-2025-M02-AP,4200.0
+SHP-101006,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-02-15,2025-02,678,LOT-LIN-2025-M02-NO,380.0
+SHP-101007,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-02-14,2025-02,653,LOT-LIN-2025-M02-SO,380.0
+SHP-101008,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-02-27,2025-02,762,LOT-LIN-2025-M02-WE,380.0
+SHP-101009,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-02-24,2025-02,438,LOT-LIN-2025-M02-EA,380.0
+SHP-101010,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-02-19,2025-02,401,LOT-LIN-2025-M02-AP,380.0
+SHP-101011,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-02-09,2025-02,43,LOT-MOD-2025-M02-NO,18500.0
+SHP-101012,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-02-11,2025-02,47,LOT-MOD-2025-M02-SO,18500.0
+SHP-101013,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-02-28,2025-02,53,LOT-MOD-2025-M02-WE,18500.0
+SHP-101014,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-02-08,2025-02,29,LOT-MOD-2025-M02-EA,18500.0
+SHP-101015,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-02-27,2025-02,28,LOT-MOD-2025-M02-AP,18500.0
+SHP-101016,LV Switchgear Panel,Switchgear & Distribution,North India,2025-02-03,2025-02,73,LOT-LV -2025-M02-NO,12500.0
+SHP-101017,LV Switchgear Panel,Switchgear & Distribution,South India,2025-02-09,2025-02,61,LOT-LV -2025-M02-SO,12500.0
+SHP-101018,LV Switchgear Panel,Switchgear & Distribution,West India,2025-02-15,2025-02,75,LOT-LV -2025-M02-WE,12500.0
+SHP-101019,LV Switchgear Panel,Switchgear & Distribution,East India,2025-02-08,2025-02,51,LOT-LV -2025-M02-EA,12500.0
+SHP-101020,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-02-25,2025-02,38,LOT-LV -2025-M02-AP,12500.0
+SHP-101021,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-02-15,2025-02,541,LOT-MOL-2025-M02-NO,650.0
+SHP-101022,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-02-19,2025-02,482,LOT-MOL-2025-M02-SO,650.0
+SHP-101023,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-02-20,2025-02,612,LOT-MOL-2025-M02-WE,650.0
+SHP-101024,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-02-22,2025-02,394,LOT-MOL-2025-M02-EA,650.0
+SHP-101025,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-02-13,2025-02,343,LOT-MOL-2025-M02-AP,650.0
+SHP-101026,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-02-11,2025-02,124,LOT-AIR-2025-M02-NO,4100.0
+SHP-101027,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-02-01,2025-02,127,LOT-AIR-2025-M02-SO,4100.0
+SHP-101028,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-02-16,2025-02,144,LOT-AIR-2025-M02-WE,4100.0
+SHP-101029,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-02-28,2025-02,84,LOT-AIR-2025-M02-EA,4100.0
+SHP-101030,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-02-11,2025-02,80,LOT-AIR-2025-M02-AP,4100.0
+SHP-101031,Surge Protection Device (SPD),Protection Devices,North India,2025-02-06,2025-02,501,LOT-SUR-2025-M02-NO,190.0
+SHP-101032,Surge Protection Device (SPD),Protection Devices,South India,2025-02-16,2025-02,531,LOT-SUR-2025-M02-SO,190.0
+SHP-101033,Surge Protection Device (SPD),Protection Devices,West India,2025-02-07,2025-02,565,LOT-SUR-2025-M02-WE,190.0
+SHP-101034,Surge Protection Device (SPD),Protection Devices,East India,2025-02-12,2025-02,354,LOT-SUR-2025-M02-EA,190.0
+SHP-101035,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-02-26,2025-02,307,LOT-SUR-2025-M02-AP,190.0
+SHP-101036,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-02-09,2025-02,212,LOT-POW-2025-M02-NO,1600.0
+SHP-101037,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-02-11,2025-02,190,LOT-POW-2025-M02-SO,1600.0
+SHP-101038,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-02-09,2025-02,231,LOT-POW-2025-M02-WE,1600.0
+SHP-101039,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-02-20,2025-02,131,LOT-POW-2025-M02-EA,1600.0
+SHP-101040,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-02-23,2025-02,120,LOT-POW-2025-M02-AP,1600.0
+SHP-101041,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-03-09,2025-03,284,LOT-ONL-2025-M03-NO,4200.0
+SHP-101042,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-03-18,2025-03,284,LOT-ONL-2025-M03-SO,4200.0
+SHP-101043,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-03-01,2025-03,297,LOT-ONL-2025-M03-WE,4200.0
+SHP-101044,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-03-17,2025-03,201,LOT-ONL-2025-M03-EA,4200.0
+SHP-101045,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-03-07,2025-03,183,LOT-ONL-2025-M03-AP,4200.0
+SHP-101046,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-03-03,2025-03,796,LOT-LIN-2025-M03-NO,380.0
+SHP-101047,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-03-08,2025-03,711,LOT-LIN-2025-M03-SO,380.0
+SHP-101048,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-03-24,2025-03,776,LOT-LIN-2025-M03-WE,380.0
+SHP-101049,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-03-14,2025-03,578,LOT-LIN-2025-M03-EA,380.0
+SHP-101050,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-03-16,2025-03,434,LOT-LIN-2025-M03-AP,380.0
+SHP-101051,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-03-18,2025-03,57,LOT-MOD-2025-M03-NO,18500.0
+SHP-101052,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-03-25,2025-03,51,LOT-MOD-2025-M03-SO,18500.0
+SHP-101053,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-03-08,2025-03,63,LOT-MOD-2025-M03-WE,18500.0
+SHP-101054,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-03-23,2025-03,39,LOT-MOD-2025-M03-EA,18500.0
+SHP-101055,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-03-16,2025-03,35,LOT-MOD-2025-M03-AP,18500.0
+SHP-101056,LV Switchgear Panel,Switchgear & Distribution,North India,2025-03-21,2025-03,78,LOT-LV -2025-M03-NO,12500.0
+SHP-101057,LV Switchgear Panel,Switchgear & Distribution,South India,2025-03-23,2025-03,80,LOT-LV -2025-M03-SO,12500.0
+SHP-101058,LV Switchgear Panel,Switchgear & Distribution,West India,2025-03-16,2025-03,86,LOT-LV -2025-M03-WE,12500.0
+SHP-101059,LV Switchgear Panel,Switchgear & Distribution,East India,2025-03-15,2025-03,55,LOT-LV -2025-M03-EA,12500.0
+SHP-101060,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-03-26,2025-03,50,LOT-LV -2025-M03-AP,12500.0
+SHP-101061,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-03-01,2025-03,660,LOT-MOL-2025-M03-NO,650.0
+SHP-101062,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-03-03,2025-03,643,LOT-MOL-2025-M03-SO,650.0
+SHP-101063,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-03-10,2025-03,705,LOT-MOL-2025-M03-WE,650.0
+SHP-101064,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-03-08,2025-03,424,LOT-MOL-2025-M03-EA,650.0
+SHP-101065,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-03-13,2025-03,371,LOT-MOL-2025-M03-AP,650.0
+SHP-101066,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-03-23,2025-03,154,LOT-AIR-2025-M03-NO,4100.0
+SHP-101067,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-03-08,2025-03,135,LOT-AIR-2025-M03-SO,4100.0
+SHP-101068,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-03-10,2025-03,149,LOT-AIR-2025-M03-WE,4100.0
+SHP-101069,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-03-22,2025-03,100,LOT-AIR-2025-M03-EA,4100.0
+SHP-101070,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-03-19,2025-03,86,LOT-AIR-2025-M03-AP,4100.0
+SHP-101071,Surge Protection Device (SPD),Protection Devices,North India,2025-03-12,2025-03,622,LOT-SUR-2025-M03-NO,190.0
+SHP-101072,Surge Protection Device (SPD),Protection Devices,South India,2025-03-16,2025-03,588,LOT-SUR-2025-M03-SO,190.0
+SHP-101073,Surge Protection Device (SPD),Protection Devices,West India,2025-03-18,2025-03,644,LOT-SUR-2025-M03-WE,190.0
+SHP-101074,Surge Protection Device (SPD),Protection Devices,East India,2025-03-17,2025-03,410,LOT-SUR-2025-M03-EA,190.0
+SHP-101075,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-03-12,2025-03,427,LOT-SUR-2025-M03-AP,190.0
+SHP-101076,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-03-14,2025-03,239,LOT-POW-2025-M03-NO,1600.0
+SHP-101077,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-03-24,2025-03,226,LOT-POW-2025-M03-SO,1600.0
+SHP-101078,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-03-18,2025-03,271,LOT-POW-2025-M03-WE,1600.0
+SHP-101079,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-03-11,2025-03,160,LOT-POW-2025-M03-EA,1600.0
+SHP-101080,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-03-12,2025-03,159,LOT-POW-2025-M03-AP,1600.0
+SHP-101081,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-04-23,2025-04,298,LOT-ONL-2025-M04-NO,4200.0
+SHP-101082,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-04-15,2025-04,251,LOT-ONL-2025-M04-SO,4200.0
+SHP-101083,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-04-09,2025-04,304,LOT-ONL-2025-M04-WE,4200.0
+SHP-101084,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-04-10,2025-04,211,LOT-ONL-2025-M04-EA,4200.0
+SHP-101085,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-04-09,2025-04,186,LOT-ONL-2025-M04-AP,4200.0
+SHP-101086,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-04-08,2025-04,780,LOT-LIN-2025-M04-NO,380.0
+SHP-101087,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-04-04,2025-04,765,LOT-LIN-2025-M04-SO,380.0
+SHP-101088,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-04-24,2025-04,802,LOT-LIN-2025-M04-WE,380.0
+SHP-101089,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-04-07,2025-04,593,LOT-LIN-2025-M04-EA,380.0
+SHP-101090,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-04-11,2025-04,454,LOT-LIN-2025-M04-AP,380.0
+SHP-101091,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-04-04,2025-04,58,LOT-MOD-2025-M04-NO,18500.0
+SHP-101092,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-04-24,2025-04,53,LOT-MOD-2025-M04-SO,18500.0
+SHP-101093,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-04-18,2025-04,59,LOT-MOD-2025-M04-WE,18500.0
+SHP-101094,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-04-25,2025-04,37,LOT-MOD-2025-M04-EA,18500.0
+SHP-101095,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-04-23,2025-04,31,LOT-MOD-2025-M04-AP,18500.0
+SHP-101096,LV Switchgear Panel,Switchgear & Distribution,North India,2025-04-06,2025-04,76,LOT-LV -2025-M04-NO,12500.0
+SHP-101097,LV Switchgear Panel,Switchgear & Distribution,South India,2025-04-07,2025-04,73,LOT-LV -2025-M04-SO,12500.0
+SHP-101098,LV Switchgear Panel,Switchgear & Distribution,West India,2025-04-07,2025-04,83,LOT-LV -2025-M04-WE,12500.0
+SHP-101099,LV Switchgear Panel,Switchgear & Distribution,East India,2025-04-24,2025-04,59,LOT-LV -2025-M04-EA,12500.0
+SHP-101100,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-04-16,2025-04,48,LOT-LV -2025-M04-AP,12500.0
+SHP-101101,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-04-09,2025-04,573,LOT-MOL-2025-M04-NO,650.0
+SHP-101102,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-04-24,2025-04,645,LOT-MOL-2025-M04-SO,650.0
+SHP-101103,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-04-19,2025-04,722,LOT-MOL-2025-M04-WE,650.0
+SHP-101104,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-04-25,2025-04,466,LOT-MOL-2025-M04-EA,650.0
+SHP-101105,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-04-17,2025-04,412,LOT-MOL-2025-M04-AP,650.0
+SHP-101106,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-04-20,2025-04,140,LOT-AIR-2025-M04-NO,4100.0
+SHP-101107,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-04-10,2025-04,139,LOT-AIR-2025-M04-SO,4100.0
+SHP-101108,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-04-04,2025-04,169,LOT-AIR-2025-M04-WE,4100.0
+SHP-101109,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-04-27,2025-04,107,LOT-AIR-2025-M04-EA,4100.0
+SHP-101110,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-04-07,2025-04,85,LOT-AIR-2025-M04-AP,4100.0
+SHP-101111,Surge Protection Device (SPD),Protection Devices,North India,2025-04-10,2025-04,686,LOT-SUR-2025-M04-NO,190.0
+SHP-101112,Surge Protection Device (SPD),Protection Devices,South India,2025-04-08,2025-04,590,LOT-SUR-2025-M04-SO,190.0
+SHP-101113,Surge Protection Device (SPD),Protection Devices,West India,2025-04-12,2025-04,671,LOT-SUR-2025-M04-WE,190.0
+SHP-101114,Surge Protection Device (SPD),Protection Devices,East India,2025-04-06,2025-04,454,LOT-SUR-2025-M04-EA,190.0
+SHP-101115,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-04-10,2025-04,401,LOT-SUR-2025-M04-AP,190.0
+SHP-101116,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-04-01,2025-04,247,LOT-POW-2025-M04-NO,1600.0
+SHP-101117,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-04-23,2025-04,216,LOT-POW-2025-M04-SO,1600.0
+SHP-101118,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-04-18,2025-04,282,LOT-POW-2025-M04-WE,1600.0
+SHP-101119,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-04-05,2025-04,162,LOT-POW-2025-M04-EA,1600.0
+SHP-101120,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-04-09,2025-04,138,LOT-POW-2025-M04-AP,1600.0
+SHP-101121,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-05-02,2025-05,381,LOT-ONL-2025-M05-NO,4200.0
+SHP-101122,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-05-02,2025-05,369,LOT-ONL-2025-M05-SO,4200.0
+SHP-101123,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-05-18,2025-05,413,LOT-ONL-2025-M05-WE,4200.0
+SHP-101124,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-05-10,2025-05,262,LOT-ONL-2025-M05-EA,4200.0
+SHP-101125,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-05-23,2025-05,223,LOT-ONL-2025-M05-AP,4200.0
+SHP-101126,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-05-05,2025-05,995,LOT-LIN-2025-M05-NO,380.0
+SHP-101127,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-05-21,2025-05,873,LOT-LIN-2025-M05-SO,380.0
+SHP-101128,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-05-28,2025-05,1054,LOT-LIN-2025-M05-WE,380.0
+SHP-101129,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-05-25,2025-05,670,LOT-LIN-2025-M05-EA,380.0
+SHP-101130,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-05-16,2025-05,574,LOT-LIN-2025-M05-AP,380.0
+SHP-101131,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-05-04,2025-05,70,LOT-MOD-2025-M05-NO,18500.0
+SHP-101132,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-05-28,2025-05,65,LOT-MOD-2025-M05-SO,18500.0
+SHP-101133,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-05-01,2025-05,68,LOT-MOD-2025-M05-WE,18500.0
+SHP-101134,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-05-19,2025-05,44,LOT-MOD-2025-M05-EA,18500.0
+SHP-101135,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-05-10,2025-05,42,LOT-MOD-2025-M05-AP,18500.0
+SHP-101136,LV Switchgear Panel,Switchgear & Distribution,North India,2025-05-16,2025-05,94,LOT-LV -2025-M05-NO,12500.0
+SHP-101137,LV Switchgear Panel,Switchgear & Distribution,South India,2025-05-16,2025-05,103,LOT-LV -2025-M05-SO,12500.0
+SHP-101138,LV Switchgear Panel,Switchgear & Distribution,West India,2025-05-15,2025-05,110,LOT-LV -2025-M05-WE,12500.0
+SHP-101139,LV Switchgear Panel,Switchgear & Distribution,East India,2025-05-11,2025-05,70,LOT-LV -2025-M05-EA,12500.0
+SHP-101140,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-05-06,2025-05,63,LOT-LV -2025-M05-AP,12500.0
+SHP-101141,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-05-02,2025-05,827,LOT-MOL-2025-M05-NO,650.0
+SHP-101142,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-05-09,2025-05,727,LOT-MOL-2025-M05-SO,650.0
+SHP-101143,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-05-28,2025-05,877,LOT-MOL-2025-M05-WE,650.0
+SHP-101144,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-05-16,2025-05,550,LOT-MOL-2025-M05-EA,650.0
+SHP-101145,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-05-04,2025-05,456,LOT-MOL-2025-M05-AP,650.0
+SHP-101146,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-05-27,2025-05,199,LOT-AIR-2025-M05-NO,4100.0
+SHP-101147,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-05-03,2025-05,188,LOT-AIR-2025-M05-SO,4100.0
+SHP-101148,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-05-13,2025-05,209,LOT-AIR-2025-M05-WE,4100.0
+SHP-101149,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-05-16,2025-05,138,LOT-AIR-2025-M05-EA,4100.0
+SHP-101150,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-05-03,2025-05,121,LOT-AIR-2025-M05-AP,4100.0
+SHP-101151,Surge Protection Device (SPD),Protection Devices,North India,2025-05-19,2025-05,846,LOT-SUR-2025-M05-NO,190.0
+SHP-101152,Surge Protection Device (SPD),Protection Devices,South India,2025-05-21,2025-05,827,LOT-SUR-2025-M05-SO,190.0
+SHP-101153,Surge Protection Device (SPD),Protection Devices,West India,2025-05-22,2025-05,918,LOT-SUR-2025-M05-WE,190.0
+SHP-101154,Surge Protection Device (SPD),Protection Devices,East India,2025-05-02,2025-05,585,LOT-SUR-2025-M05-EA,190.0
+SHP-101155,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-05-05,2025-05,507,LOT-SUR-2025-M05-AP,190.0
+SHP-101156,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-05-05,2025-05,319,LOT-POW-2025-M05-NO,1600.0
+SHP-101157,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-05-26,2025-05,274,LOT-POW-2025-M05-SO,1600.0
+SHP-101158,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-05-19,2025-05,355,LOT-POW-2025-M05-WE,1600.0
+SHP-101159,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-05-10,2025-05,227,LOT-POW-2025-M05-EA,1600.0
+SHP-101160,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-05-03,2025-05,170,LOT-POW-2025-M05-AP,1600.0
+SHP-101161,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-06-08,2025-06,379,LOT-ONL-2025-M06-NO,4200.0
+SHP-101162,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-06-04,2025-06,320,LOT-ONL-2025-M06-SO,4200.0
+SHP-101163,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-06-18,2025-06,378,LOT-ONL-2025-M06-WE,4200.0
+SHP-101164,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-06-25,2025-06,260,LOT-ONL-2025-M06-EA,4200.0
+SHP-101165,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-06-14,2025-06,205,LOT-ONL-2025-M06-AP,4200.0
+SHP-101166,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-06-20,2025-06,1047,LOT-LIN-2025-M06-NO,380.0
+SHP-101167,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-06-20,2025-06,1004,LOT-LIN-2025-M06-SO,380.0
+SHP-101168,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-06-26,2025-06,1078,LOT-LIN-2025-M06-WE,380.0
+SHP-101169,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-06-20,2025-06,628,LOT-LIN-2025-M06-EA,380.0
+SHP-101170,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-06-08,2025-06,580,LOT-LIN-2025-M06-AP,380.0
+SHP-101171,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-06-25,2025-06,69,LOT-MOD-2025-M06-NO,18500.0
+SHP-101172,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-06-17,2025-06,71,LOT-MOD-2025-M06-SO,18500.0
+SHP-101173,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-06-13,2025-06,76,LOT-MOD-2025-M06-WE,18500.0
+SHP-101174,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-06-15,2025-06,45,LOT-MOD-2025-M06-EA,18500.0
+SHP-101175,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-06-15,2025-06,42,LOT-MOD-2025-M06-AP,18500.0
+SHP-101176,LV Switchgear Panel,Switchgear & Distribution,North India,2025-06-10,2025-06,103,LOT-LV -2025-M06-NO,12500.0
+SHP-101177,LV Switchgear Panel,Switchgear & Distribution,South India,2025-06-28,2025-06,102,LOT-LV -2025-M06-SO,12500.0
+SHP-101178,LV Switchgear Panel,Switchgear & Distribution,West India,2025-06-19,2025-06,103,LOT-LV -2025-M06-WE,12500.0
+SHP-101179,LV Switchgear Panel,Switchgear & Distribution,East India,2025-06-14,2025-06,74,LOT-LV -2025-M06-EA,12500.0
+SHP-101180,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-06-10,2025-06,62,LOT-LV -2025-M06-AP,12500.0
+SHP-101181,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-06-19,2025-06,851,LOT-MOL-2025-M06-NO,650.0
+SHP-101182,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-06-20,2025-06,730,LOT-MOL-2025-M06-SO,650.0
+SHP-101183,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-06-02,2025-06,874,LOT-MOL-2025-M06-WE,650.0
+SHP-101184,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-06-20,2025-06,589,LOT-MOL-2025-M06-EA,650.0
+SHP-101185,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-06-24,2025-06,444,LOT-MOL-2025-M06-AP,650.0
+SHP-101186,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-06-04,2025-06,202,LOT-AIR-2025-M06-NO,4100.0
+SHP-101187,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-06-25,2025-06,185,LOT-AIR-2025-M06-SO,4100.0
+SHP-101188,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-06-07,2025-06,188,LOT-AIR-2025-M06-WE,4100.0
+SHP-101189,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-06-21,2025-06,126,LOT-AIR-2025-M06-EA,4100.0
+SHP-101190,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-06-07,2025-06,118,LOT-AIR-2025-M06-AP,4100.0
+SHP-101191,Surge Protection Device (SPD),Protection Devices,North India,2025-06-09,2025-06,757,LOT-SUR-2025-M06-NO,190.0
+SHP-101192,Surge Protection Device (SPD),Protection Devices,South India,2025-06-22,2025-06,796,LOT-SUR-2025-M06-SO,190.0
+SHP-101193,Surge Protection Device (SPD),Protection Devices,West India,2025-06-03,2025-06,867,LOT-SUR-2025-M06-WE,190.0
+SHP-101194,Surge Protection Device (SPD),Protection Devices,East India,2025-06-06,2025-06,583,LOT-SUR-2025-M06-EA,190.0
+SHP-101195,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-06-08,2025-06,458,LOT-SUR-2025-M06-AP,190.0
+SHP-101196,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-06-06,2025-06,328,LOT-POW-2025-M06-NO,1600.0
+SHP-101197,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-06-18,2025-06,319,LOT-POW-2025-M06-SO,1600.0
+SHP-101198,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-06-03,2025-06,362,LOT-POW-2025-M06-WE,1600.0
+SHP-101199,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-06-06,2025-06,223,LOT-POW-2025-M06-EA,1600.0
+SHP-101200,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-06-01,2025-06,174,LOT-POW-2025-M06-AP,1600.0
+SHP-101201,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-07-14,2025-07,377,LOT-ONL-2025-M07-NO,4200.0
+SHP-101202,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-07-15,2025-07,315,LOT-ONL-2025-M07-SO,4200.0
+SHP-101203,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-07-23,2025-07,358,LOT-ONL-2025-M07-WE,4200.0
+SHP-101204,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-07-20,2025-07,243,LOT-ONL-2025-M07-EA,4200.0
+SHP-101205,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-07-16,2025-07,219,LOT-ONL-2025-M07-AP,4200.0
+SHP-101206,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-07-10,2025-07,1044,LOT-LIN-2025-M07-NO,380.0
+SHP-101207,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-07-02,2025-07,984,LOT-LIN-2025-M07-SO,380.0
+SHP-101208,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-07-08,2025-07,1072,LOT-LIN-2025-M07-WE,380.0
+SHP-101209,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-07-10,2025-07,665,LOT-LIN-2025-M07-EA,380.0
+SHP-101210,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-07-23,2025-07,660,LOT-LIN-2025-M07-AP,380.0
+SHP-101211,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-07-10,2025-07,67,LOT-MOD-2025-M07-NO,18500.0
+SHP-101212,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-07-23,2025-07,65,LOT-MOD-2025-M07-SO,18500.0
+SHP-101213,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-07-28,2025-07,70,LOT-MOD-2025-M07-WE,18500.0
+SHP-101214,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-07-15,2025-07,50,LOT-MOD-2025-M07-EA,18500.0
+SHP-101215,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-07-03,2025-07,43,LOT-MOD-2025-M07-AP,18500.0
+SHP-101216,LV Switchgear Panel,Switchgear & Distribution,North India,2025-07-22,2025-07,97,LOT-LV -2025-M07-NO,12500.0
+SHP-101217,LV Switchgear Panel,Switchgear & Distribution,South India,2025-07-08,2025-07,91,LOT-LV -2025-M07-SO,12500.0
+SHP-101218,LV Switchgear Panel,Switchgear & Distribution,West India,2025-07-09,2025-07,115,LOT-LV -2025-M07-WE,12500.0
+SHP-101219,LV Switchgear Panel,Switchgear & Distribution,East India,2025-07-26,2025-07,73,LOT-LV -2025-M07-EA,12500.0
+SHP-101220,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-07-26,2025-07,60,LOT-LV -2025-M07-AP,12500.0
+SHP-101221,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-07-21,2025-07,853,LOT-MOL-2025-M07-NO,650.0
+SHP-101222,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-07-19,2025-07,708,LOT-MOL-2025-M07-SO,650.0
+SHP-101223,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-07-22,2025-07,848,LOT-MOL-2025-M07-WE,650.0
+SHP-101224,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-07-26,2025-07,593,LOT-MOL-2025-M07-EA,650.0
+SHP-101225,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-07-07,2025-07,474,LOT-MOL-2025-M07-AP,650.0
+SHP-101226,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-07-14,2025-07,193,LOT-AIR-2025-M07-NO,4100.0
+SHP-101227,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-07-04,2025-07,177,LOT-AIR-2025-M07-SO,4100.0
+SHP-101228,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-07-18,2025-07,197,LOT-AIR-2025-M07-WE,4100.0
+SHP-101229,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-07-08,2025-07,142,LOT-AIR-2025-M07-EA,4100.0
+SHP-101230,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-07-21,2025-07,113,LOT-AIR-2025-M07-AP,4100.0
+SHP-101231,Surge Protection Device (SPD),Protection Devices,North India,2025-07-05,2025-07,882,LOT-SUR-2025-M07-NO,190.0
+SHP-101232,Surge Protection Device (SPD),Protection Devices,South India,2025-07-09,2025-07,750,LOT-SUR-2025-M07-SO,190.0
+SHP-101233,Surge Protection Device (SPD),Protection Devices,West India,2025-07-27,2025-07,850,LOT-SUR-2025-M07-WE,190.0
+SHP-101234,Surge Protection Device (SPD),Protection Devices,East India,2025-07-05,2025-07,525,LOT-SUR-2025-M07-EA,190.0
+SHP-101235,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-07-03,2025-07,515,LOT-SUR-2025-M07-AP,190.0
+SHP-101236,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-07-02,2025-07,302,LOT-POW-2025-M07-NO,1600.0
+SHP-101237,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-07-06,2025-07,315,LOT-POW-2025-M07-SO,1600.0
+SHP-101238,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-07-26,2025-07,334,LOT-POW-2025-M07-WE,1600.0
+SHP-101239,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-07-10,2025-07,233,LOT-POW-2025-M07-EA,1600.0
+SHP-101240,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-07-20,2025-07,177,LOT-POW-2025-M07-AP,1600.0
+SHP-101241,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-08-24,2025-08,309,LOT-ONL-2025-M08-NO,4200.0
+SHP-101242,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-08-27,2025-08,291,LOT-ONL-2025-M08-SO,4200.0
+SHP-101243,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-08-19,2025-08,330,LOT-ONL-2025-M08-WE,4200.0
+SHP-101244,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-08-10,2025-08,214,LOT-ONL-2025-M08-EA,4200.0
+SHP-101245,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-08-15,2025-08,184,LOT-ONL-2025-M08-AP,4200.0
+SHP-101246,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-08-04,2025-08,819,LOT-LIN-2025-M08-NO,380.0
+SHP-101247,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-08-15,2025-08,716,LOT-LIN-2025-M08-SO,380.0
+SHP-101248,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-08-23,2025-08,798,LOT-LIN-2025-M08-WE,380.0
+SHP-101249,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-08-10,2025-08,599,LOT-LIN-2025-M08-EA,380.0
+SHP-101250,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-08-23,2025-08,497,LOT-LIN-2025-M08-AP,380.0
+SHP-101251,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-08-13,2025-08,58,LOT-MOD-2025-M08-NO,18500.0
+SHP-101252,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-08-09,2025-08,52,LOT-MOD-2025-M08-SO,18500.0
+SHP-101253,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-08-17,2025-08,55,LOT-MOD-2025-M08-WE,18500.0
+SHP-101254,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-08-18,2025-08,35,LOT-MOD-2025-M08-EA,18500.0
+SHP-101255,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-08-16,2025-08,34,LOT-MOD-2025-M08-AP,18500.0
+SHP-101256,LV Switchgear Panel,Switchgear & Distribution,North India,2025-08-15,2025-08,81,LOT-LV -2025-M08-NO,12500.0
+SHP-101257,LV Switchgear Panel,Switchgear & Distribution,South India,2025-08-03,2025-08,75,LOT-LV -2025-M08-SO,12500.0
+SHP-101258,LV Switchgear Panel,Switchgear & Distribution,West India,2025-08-20,2025-08,89,LOT-LV -2025-M08-WE,12500.0
+SHP-101259,LV Switchgear Panel,Switchgear & Distribution,East India,2025-08-02,2025-08,53,LOT-LV -2025-M08-EA,12500.0
+SHP-101260,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-08-14,2025-08,51,LOT-LV -2025-M08-AP,12500.0
+SHP-101261,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-08-24,2025-08,609,LOT-MOL-2025-M08-NO,650.0
+SHP-101262,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-08-11,2025-08,640,LOT-MOL-2025-M08-SO,650.0
+SHP-101263,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-08-20,2025-08,667,LOT-MOL-2025-M08-WE,650.0
+SHP-101264,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-08-09,2025-08,438,LOT-MOL-2025-M08-EA,650.0
+SHP-101265,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-08-01,2025-08,353,LOT-MOL-2025-M08-AP,650.0
+SHP-101266,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-08-03,2025-08,140,LOT-AIR-2025-M08-NO,4100.0
+SHP-101267,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-08-08,2025-08,142,LOT-AIR-2025-M08-SO,4100.0
+SHP-101268,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-08-22,2025-08,164,LOT-AIR-2025-M08-WE,4100.0
+SHP-101269,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-08-27,2025-08,107,LOT-AIR-2025-M08-EA,4100.0
+SHP-101270,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-08-28,2025-08,89,LOT-AIR-2025-M08-AP,4100.0
+SHP-101271,Surge Protection Device (SPD),Protection Devices,North India,2025-08-19,2025-08,686,LOT-SUR-2025-M08-NO,190.0
+SHP-101272,Surge Protection Device (SPD),Protection Devices,South India,2025-08-19,2025-08,675,LOT-SUR-2025-M08-SO,190.0
+SHP-101273,Surge Protection Device (SPD),Protection Devices,West India,2025-08-01,2025-08,756,LOT-SUR-2025-M08-WE,190.0
+SHP-101274,Surge Protection Device (SPD),Protection Devices,East India,2025-08-25,2025-08,423,LOT-SUR-2025-M08-EA,190.0
+SHP-101275,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-08-22,2025-08,402,LOT-SUR-2025-M08-AP,190.0
+SHP-101276,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-08-27,2025-08,231,LOT-POW-2025-M08-NO,1600.0
+SHP-101277,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-08-09,2025-08,226,LOT-POW-2025-M08-SO,1600.0
+SHP-101278,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-08-19,2025-08,293,LOT-POW-2025-M08-WE,1600.0
+SHP-101279,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-08-02,2025-08,161,LOT-POW-2025-M08-EA,1600.0
+SHP-101280,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-08-25,2025-08,151,LOT-POW-2025-M08-AP,1600.0
+SHP-101281,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-09-25,2025-09,297,LOT-ONL-2025-M09-NO,4200.0
+SHP-101282,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-09-06,2025-09,288,LOT-ONL-2025-M09-SO,4200.0
+SHP-101283,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-09-16,2025-09,320,LOT-ONL-2025-M09-WE,4200.0
+SHP-101284,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-09-17,2025-09,185,LOT-ONL-2025-M09-EA,4200.0
+SHP-101285,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-09-21,2025-09,172,LOT-ONL-2025-M09-AP,4200.0
+SHP-101286,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-09-15,2025-09,807,LOT-LIN-2025-M09-NO,380.0
+SHP-101287,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-09-09,2025-09,713,LOT-LIN-2025-M09-SO,380.0
+SHP-101288,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-09-06,2025-09,852,LOT-LIN-2025-M09-WE,380.0
+SHP-101289,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-09-19,2025-09,513,LOT-LIN-2025-M09-EA,380.0
+SHP-101290,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-09-14,2025-09,453,LOT-LIN-2025-M09-AP,380.0
+SHP-101291,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-09-21,2025-09,54,LOT-MOD-2025-M09-NO,18500.0
+SHP-101292,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-09-27,2025-09,49,LOT-MOD-2025-M09-SO,18500.0
+SHP-101293,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-09-16,2025-09,61,LOT-MOD-2025-M09-WE,18500.0
+SHP-101294,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-09-03,2025-09,39,LOT-MOD-2025-M09-EA,18500.0
+SHP-101295,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-09-16,2025-09,35,LOT-MOD-2025-M09-AP,18500.0
+SHP-101296,LV Switchgear Panel,Switchgear & Distribution,North India,2025-09-12,2025-09,78,LOT-LV -2025-M09-NO,12500.0
+SHP-101297,LV Switchgear Panel,Switchgear & Distribution,South India,2025-09-14,2025-09,74,LOT-LV -2025-M09-SO,12500.0
+SHP-101298,LV Switchgear Panel,Switchgear & Distribution,West India,2025-09-11,2025-09,84,LOT-LV -2025-M09-WE,12500.0
+SHP-101299,LV Switchgear Panel,Switchgear & Distribution,East India,2025-09-11,2025-09,59,LOT-LV -2025-M09-EA,12500.0
+SHP-101300,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-09-22,2025-09,52,LOT-LV -2025-M09-AP,12500.0
+SHP-101301,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-09-04,2025-09,585,LOT-MOL-2025-M09-NO,650.0
+SHP-101302,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-09-28,2025-09,658,LOT-MOL-2025-M09-SO,650.0
+SHP-101303,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-09-06,2025-09,638,LOT-MOL-2025-M09-WE,650.0
+SHP-101304,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-09-11,2025-09,447,LOT-MOL-2025-M09-EA,650.0
+SHP-101305,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-09-14,2025-09,403,LOT-MOL-2025-M09-AP,650.0
+SHP-101306,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-09-23,2025-09,162,LOT-AIR-2025-M09-NO,4100.0
+SHP-101307,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-09-16,2025-09,151,LOT-AIR-2025-M09-SO,4100.0
+SHP-101308,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-09-10,2025-09,174,LOT-AIR-2025-M09-WE,4100.0
+SHP-101309,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-09-22,2025-09,103,LOT-AIR-2025-M09-EA,4100.0
+SHP-101310,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-09-13,2025-09,98,LOT-AIR-2025-M09-AP,4100.0
+SHP-101311,Surge Protection Device (SPD),Protection Devices,North India,2025-09-27,2025-09,616,LOT-SUR-2025-M09-NO,190.0
+SHP-101312,Surge Protection Device (SPD),Protection Devices,South India,2025-09-25,2025-09,682,LOT-SUR-2025-M09-SO,190.0
+SHP-101313,Surge Protection Device (SPD),Protection Devices,West India,2025-09-18,2025-09,730,LOT-SUR-2025-M09-WE,190.0
+SHP-101314,Surge Protection Device (SPD),Protection Devices,East India,2025-09-02,2025-09,489,LOT-SUR-2025-M09-EA,190.0
+SHP-101315,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-09-15,2025-09,402,LOT-SUR-2025-M09-AP,190.0
+SHP-101316,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-09-03,2025-09,256,LOT-POW-2025-M09-NO,1600.0
+SHP-101317,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-09-11,2025-09,240,LOT-POW-2025-M09-SO,1600.0
+SHP-101318,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-09-09,2025-09,282,LOT-POW-2025-M09-WE,1600.0
+SHP-101319,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-09-11,2025-09,160,LOT-POW-2025-M09-EA,1600.0
+SHP-101320,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-09-04,2025-09,140,LOT-POW-2025-M09-AP,1600.0
+SHP-101321,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-10-25,2025-10,279,LOT-ONL-2025-M10-NO,4200.0
+SHP-101322,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-10-13,2025-10,263,LOT-ONL-2025-M10-SO,4200.0
+SHP-101323,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-10-28,2025-10,339,LOT-ONL-2025-M10-WE,4200.0
+SHP-101324,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-10-17,2025-10,193,LOT-ONL-2025-M10-EA,4200.0
+SHP-101325,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-10-27,2025-10,193,LOT-ONL-2025-M10-AP,4200.0
+SHP-101326,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-10-01,2025-10,785,LOT-LIN-2025-M10-NO,380.0
+SHP-101327,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-10-22,2025-10,730,LOT-LIN-2025-M10-SO,380.0
+SHP-101328,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-10-28,2025-10,925,LOT-LIN-2025-M10-WE,380.0
+SHP-101329,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-10-18,2025-10,579,LOT-LIN-2025-M10-EA,380.0
+SHP-101330,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-10-15,2025-10,492,LOT-LIN-2025-M10-AP,380.0
+SHP-101331,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-10-14,2025-10,56,LOT-MOD-2025-M10-NO,18500.0
+SHP-101332,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-10-02,2025-10,55,LOT-MOD-2025-M10-SO,18500.0
+SHP-101333,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-10-07,2025-10,57,LOT-MOD-2025-M10-WE,18500.0
+SHP-101334,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-10-17,2025-10,42,LOT-MOD-2025-M10-EA,18500.0
+SHP-101335,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-10-12,2025-10,36,LOT-MOD-2025-M10-AP,18500.0
+SHP-101336,LV Switchgear Panel,Switchgear & Distribution,North India,2025-10-20,2025-10,85,LOT-LV -2025-M10-NO,12500.0
+SHP-101337,LV Switchgear Panel,Switchgear & Distribution,South India,2025-10-25,2025-10,75,LOT-LV -2025-M10-SO,12500.0
+SHP-101338,LV Switchgear Panel,Switchgear & Distribution,West India,2025-10-16,2025-10,93,LOT-LV -2025-M10-WE,12500.0
+SHP-101339,LV Switchgear Panel,Switchgear & Distribution,East India,2025-10-21,2025-10,53,LOT-LV -2025-M10-EA,12500.0
+SHP-101340,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-10-15,2025-10,46,LOT-LV -2025-M10-AP,12500.0
+SHP-101341,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-10-25,2025-10,614,LOT-MOL-2025-M10-NO,650.0
+SHP-101342,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-10-02,2025-10,610,LOT-MOL-2025-M10-SO,650.0
+SHP-101343,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-10-07,2025-10,743,LOT-MOL-2025-M10-WE,650.0
+SHP-101344,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-10-09,2025-10,464,LOT-MOL-2025-M10-EA,650.0
+SHP-101345,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-10-18,2025-10,407,LOT-MOL-2025-M10-AP,650.0
+SHP-101346,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-10-05,2025-10,151,LOT-AIR-2025-M10-NO,4100.0
+SHP-101347,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-10-10,2025-10,142,LOT-AIR-2025-M10-SO,4100.0
+SHP-101348,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-10-15,2025-10,163,LOT-AIR-2025-M10-WE,4100.0
+SHP-101349,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-10-23,2025-10,116,LOT-AIR-2025-M10-EA,4100.0
+SHP-101350,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-10-16,2025-10,85,LOT-AIR-2025-M10-AP,4100.0
+SHP-101351,Surge Protection Device (SPD),Protection Devices,North India,2025-10-04,2025-10,713,LOT-SUR-2025-M10-NO,190.0
+SHP-101352,Surge Protection Device (SPD),Protection Devices,South India,2025-10-01,2025-10,649,LOT-SUR-2025-M10-SO,190.0
+SHP-101353,Surge Protection Device (SPD),Protection Devices,West India,2025-10-21,2025-10,720,LOT-SUR-2025-M10-WE,190.0
+SHP-101354,Surge Protection Device (SPD),Protection Devices,East India,2025-10-20,2025-10,484,LOT-SUR-2025-M10-EA,190.0
+SHP-101355,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-10-26,2025-10,406,LOT-SUR-2025-M10-AP,190.0
+SHP-101356,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-10-08,2025-10,267,LOT-POW-2025-M10-NO,1600.0
+SHP-101357,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-10-23,2025-10,257,LOT-POW-2025-M10-SO,1600.0
+SHP-101358,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-10-06,2025-10,269,LOT-POW-2025-M10-WE,1600.0
+SHP-101359,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-10-10,2025-10,167,LOT-POW-2025-M10-EA,1600.0
+SHP-101360,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-10-18,2025-10,155,LOT-POW-2025-M10-AP,1600.0
+SHP-101361,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-11-01,2025-11,379,LOT-ONL-2025-M11-NO,4200.0
+SHP-101362,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-11-18,2025-11,320,LOT-ONL-2025-M11-SO,4200.0
+SHP-101363,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-11-14,2025-11,392,LOT-ONL-2025-M11-WE,4200.0
+SHP-101364,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-11-03,2025-11,251,LOT-ONL-2025-M11-EA,4200.0
+SHP-101365,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-11-08,2025-11,224,LOT-ONL-2025-M11-AP,4200.0
+SHP-101366,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-11-27,2025-11,912,LOT-LIN-2025-M11-NO,380.0
+SHP-101367,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-11-04,2025-11,969,LOT-LIN-2025-M11-SO,380.0
+SHP-101368,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-11-15,2025-11,1138,LOT-LIN-2025-M11-WE,380.0
+SHP-101369,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-11-04,2025-11,640,LOT-LIN-2025-M11-EA,380.0
+SHP-101370,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-11-21,2025-11,566,LOT-LIN-2025-M11-AP,380.0
+SHP-101371,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-11-27,2025-11,72,LOT-MOD-2025-M11-NO,18500.0
+SHP-101372,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-11-05,2025-11,60,LOT-MOD-2025-M11-SO,18500.0
+SHP-101373,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-11-16,2025-11,77,LOT-MOD-2025-M11-WE,18500.0
+SHP-101374,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-11-23,2025-11,46,LOT-MOD-2025-M11-EA,18500.0
+SHP-101375,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-11-10,2025-11,39,LOT-MOD-2025-M11-AP,18500.0
+SHP-101376,LV Switchgear Panel,Switchgear & Distribution,North India,2025-11-17,2025-11,107,LOT-LV -2025-M11-NO,12500.0
+SHP-101377,LV Switchgear Panel,Switchgear & Distribution,South India,2025-11-23,2025-11,95,LOT-LV -2025-M11-SO,12500.0
+SHP-101378,LV Switchgear Panel,Switchgear & Distribution,West India,2025-11-09,2025-11,110,LOT-LV -2025-M11-WE,12500.0
+SHP-101379,LV Switchgear Panel,Switchgear & Distribution,East India,2025-11-14,2025-11,68,LOT-LV -2025-M11-EA,12500.0
+SHP-101380,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-11-27,2025-11,62,LOT-LV -2025-M11-AP,12500.0
+SHP-101381,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-11-16,2025-11,727,LOT-MOL-2025-M11-NO,650.0
+SHP-101382,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-11-16,2025-11,726,LOT-MOL-2025-M11-SO,650.0
+SHP-101383,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-11-08,2025-11,912,LOT-MOL-2025-M11-WE,650.0
+SHP-101384,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-11-15,2025-11,515,LOT-MOL-2025-M11-EA,650.0
+SHP-101385,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-11-18,2025-11,484,LOT-MOL-2025-M11-AP,650.0
+SHP-101386,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-11-05,2025-11,179,LOT-AIR-2025-M11-NO,4100.0
+SHP-101387,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-11-13,2025-11,185,LOT-AIR-2025-M11-SO,4100.0
+SHP-101388,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-11-07,2025-11,188,LOT-AIR-2025-M11-WE,4100.0
+SHP-101389,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-11-20,2025-11,139,LOT-AIR-2025-M11-EA,4100.0
+SHP-101390,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-11-17,2025-11,111,LOT-AIR-2025-M11-AP,4100.0
+SHP-101391,Surge Protection Device (SPD),Protection Devices,North India,2025-11-24,2025-11,770,LOT-SUR-2025-M11-NO,190.0
+SHP-101392,Surge Protection Device (SPD),Protection Devices,South India,2025-11-05,2025-11,714,LOT-SUR-2025-M11-SO,190.0
+SHP-101393,Surge Protection Device (SPD),Protection Devices,West India,2025-11-28,2025-11,826,LOT-SUR-2025-M11-WE,190.0
+SHP-101394,Surge Protection Device (SPD),Protection Devices,East India,2025-11-03,2025-11,564,LOT-SUR-2025-M11-EA,190.0
+SHP-101395,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-11-09,2025-11,477,LOT-SUR-2025-M11-AP,190.0
+SHP-101396,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-11-25,2025-11,320,LOT-POW-2025-M11-NO,1600.0
+SHP-101397,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-11-26,2025-11,286,LOT-POW-2025-M11-SO,1600.0
+SHP-101398,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-11-28,2025-11,314,LOT-POW-2025-M11-WE,1600.0
+SHP-101399,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-11-14,2025-11,215,LOT-POW-2025-M11-EA,1600.0
+SHP-101400,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-11-11,2025-11,191,LOT-POW-2025-M11-AP,1600.0
+SHP-101401,Online UPS 10kVA,Uninterruptible Power Supply,North India,2025-12-26,2025-12,334,LOT-ONL-2025-M12-NO,4200.0
+SHP-101402,Online UPS 10kVA,Uninterruptible Power Supply,South India,2025-12-17,2025-12,319,LOT-ONL-2025-M12-SO,4200.0
+SHP-101403,Online UPS 10kVA,Uninterruptible Power Supply,West India,2025-12-09,2025-12,354,LOT-ONL-2025-M12-WE,4200.0
+SHP-101404,Online UPS 10kVA,Uninterruptible Power Supply,East India,2025-12-27,2025-12,257,LOT-ONL-2025-M12-EA,4200.0
+SHP-101405,Online UPS 10kVA,Uninterruptible Power Supply,APAC Export,2025-12-01,2025-12,222,LOT-ONL-2025-M12-AP,4200.0
+SHP-101406,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,North India,2025-12-10,2025-12,976,LOT-LIN-2025-M12-NO,380.0
+SHP-101407,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,South India,2025-12-24,2025-12,996,LOT-LIN-2025-M12-SO,380.0
+SHP-101408,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,West India,2025-12-10,2025-12,1124,LOT-LIN-2025-M12-WE,380.0
+SHP-101409,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,East India,2025-12-27,2025-12,693,LOT-LIN-2025-M12-EA,380.0
+SHP-101410,Line-Interactive UPS 1kVA,Uninterruptible Power Supply,APAC Export,2025-12-19,2025-12,636,LOT-LIN-2025-M12-AP,380.0
+SHP-101411,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,North India,2025-12-19,2025-12,64,LOT-MOD-2025-M12-NO,18500.0
+SHP-101412,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,South India,2025-12-22,2025-12,60,LOT-MOD-2025-M12-SO,18500.0
+SHP-101413,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,West India,2025-12-16,2025-12,70,LOT-MOD-2025-M12-WE,18500.0
+SHP-101414,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,East India,2025-12-28,2025-12,43,LOT-MOD-2025-M12-EA,18500.0
+SHP-101415,Modular Industrial UPS 50kVA,Uninterruptible Power Supply,APAC Export,2025-12-05,2025-12,41,LOT-MOD-2025-M12-AP,18500.0
+SHP-101416,LV Switchgear Panel,Switchgear & Distribution,North India,2025-12-15,2025-12,109,LOT-LV -2025-M12-NO,12500.0
+SHP-101417,LV Switchgear Panel,Switchgear & Distribution,South India,2025-12-18,2025-12,89,LOT-LV -2025-M12-SO,12500.0
+SHP-101418,LV Switchgear Panel,Switchgear & Distribution,West India,2025-12-16,2025-12,102,LOT-LV -2025-M12-WE,12500.0
+SHP-101419,LV Switchgear Panel,Switchgear & Distribution,East India,2025-12-12,2025-12,70,LOT-LV -2025-M12-EA,12500.0
+SHP-101420,LV Switchgear Panel,Switchgear & Distribution,APAC Export,2025-12-11,2025-12,66,LOT-LV -2025-M12-AP,12500.0
+SHP-101421,Molded Case Circuit Breaker (MCCB),Circuit Protection,North India,2025-12-18,2025-12,752,LOT-MOL-2025-M12-NO,650.0
+SHP-101422,Molded Case Circuit Breaker (MCCB),Circuit Protection,South India,2025-12-25,2025-12,745,LOT-MOL-2025-M12-SO,650.0
+SHP-101423,Molded Case Circuit Breaker (MCCB),Circuit Protection,West India,2025-12-18,2025-12,776,LOT-MOL-2025-M12-WE,650.0
+SHP-101424,Molded Case Circuit Breaker (MCCB),Circuit Protection,East India,2025-12-13,2025-12,507,LOT-MOL-2025-M12-EA,650.0
+SHP-101425,Molded Case Circuit Breaker (MCCB),Circuit Protection,APAC Export,2025-12-15,2025-12,514,LOT-MOL-2025-M12-AP,650.0
+SHP-101426,Air Circuit Breaker (ACB),Circuit Protection,North India,2025-12-11,2025-12,201,LOT-AIR-2025-M12-NO,4100.0
+SHP-101427,Air Circuit Breaker (ACB),Circuit Protection,South India,2025-12-28,2025-12,162,LOT-AIR-2025-M12-SO,4100.0
+SHP-101428,Air Circuit Breaker (ACB),Circuit Protection,West India,2025-12-07,2025-12,218,LOT-AIR-2025-M12-WE,4100.0
+SHP-101429,Air Circuit Breaker (ACB),Circuit Protection,East India,2025-12-23,2025-12,132,LOT-AIR-2025-M12-EA,4100.0
+SHP-101430,Air Circuit Breaker (ACB),Circuit Protection,APAC Export,2025-12-08,2025-12,120,LOT-AIR-2025-M12-AP,4100.0
+SHP-101431,Surge Protection Device (SPD),Protection Devices,North India,2025-12-19,2025-12,805,LOT-SUR-2025-M12-NO,190.0
+SHP-101432,Surge Protection Device (SPD),Protection Devices,South India,2025-12-13,2025-12,778,LOT-SUR-2025-M12-SO,190.0
+SHP-101433,Surge Protection Device (SPD),Protection Devices,West India,2025-12-08,2025-12,880,LOT-SUR-2025-M12-WE,190.0
+SHP-101434,Surge Protection Device (SPD),Protection Devices,East India,2025-12-28,2025-12,581,LOT-SUR-2025-M12-EA,190.0
+SHP-101435,Surge Protection Device (SPD),Protection Devices,APAC Export,2025-12-25,2025-12,462,LOT-SUR-2025-M12-AP,190.0
+SHP-101436,Power Distribution Unit (PDU),Switchgear & Distribution,North India,2025-12-14,2025-12,279,LOT-POW-2025-M12-NO,1600.0
+SHP-101437,Power Distribution Unit (PDU),Switchgear & Distribution,South India,2025-12-02,2025-12,281,LOT-POW-2025-M12-SO,1600.0
+SHP-101438,Power Distribution Unit (PDU),Switchgear & Distribution,West India,2025-12-11,2025-12,343,LOT-POW-2025-M12-WE,1600.0
+SHP-101439,Power Distribution Unit (PDU),Switchgear & Distribution,East India,2025-12-24,2025-12,200,LOT-POW-2025-M12-EA,1600.0
+SHP-101440,Power Distribution Unit (PDU),Switchgear & Distribution,APAC Export,2025-12-16,2025-12,191,LOT-POW-2025-M12-AP,1600.0
